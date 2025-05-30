@@ -4,10 +4,9 @@
 
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Наша Сибирь
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg2Mzc5ODAsImlhdCI6MTc0ODU1MTU4MCwiY2lkIjo2LCJ1aWQiOjkyMDIzNzM5OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.uwcYblbmt4oqKoQJPPuGElnGOCI86tiOEnrEhpDJHWY&offset=3
 
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин   13:04 29.05.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  13:25 30.05.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
