@@ -4,16 +4,12 @@
 
 
 
-
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Наша Сибирь
-http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5ODM1ODAsImlhdCI6MTc0ODg5NzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTI1MzI3NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.dUdiHVEPvqZMrP7K6y9svOvEwRZhsAr1PX9XOOdB5v0&offset=3
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg4NDg1ODAsImlhdCI6MTc0ODc2MjE4MCwiY2lkIjo2LCJ1aWQiOjkyMDg2MDkxOCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.d72xa4zzOzMZGgV-1Q0PyzCDsZcAJ9ZhnapQ-JhfJhg&offset=3
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  9:22 03.06.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  21:13 03.06.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-
-
 
 
 
@@ -1926,320 +1922,743 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/pls
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Агент национальной безопасности
+http://cdn2.starcinemax.fun:2095/3038/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Академия Амбрелла
+http://cdn2.starcinemax.fun:2095/3000/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Байки Митяя
+http://cdn1.starcinemax.fun:2095/0145/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Байки из склепа
+http://cdn1.starcinemax.fun:2095/0350/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Баффи истреб. вампиров
+http://cdn1.starcinemax.fun:2095/0351/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Беверли-Хиллз 90210
+http://cdn1.starcinemax.fun:2095/0352/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Бедная Настя
+http://cdn1.starcinemax.fun:2095/0353/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Боец
+http://cdn1.starcinemax.fun:2095/0438/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Боишься ли ты темноты?
+http://cdn2.starcinemax.fun:2095/3053/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Бригада
+http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Великолепный век
+http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Во все тяжкие
+http://cdn1.starcinemax.fun:2095/0356/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Вовочка
+http://cdn1.starcinemax.fun:2095/0436/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Военные сериалы
+http://cdn1.starcinemax.fun:2095/0405/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Возвращение в Эдем
+http://cdn1.starcinemax.fun:2095/0430/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Воронины
+http://cdn1.starcinemax.fun:2095/0121/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Восьмидесятые
+http://cdn1.starcinemax.fun:2095/0402/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Гром в раю
+http://cdn1.starcinemax.fun:2095/0431/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Да Лунный свет
+http://cdn1.starcinemax.fun:2095/0358/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дальнобойщики
+http://cdn2.starcinemax.fun:2095/0705/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Девушки с Макаровым
+http://cdn1.starcinemax.fun:2095/0391/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дежурная аптека
+http://cdn1.starcinemax.fun:2095/0357/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Доктор Куин: Женщина-врач
+http://cdn2.starcinemax.fun:2095/3043/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Доктор хаус
+http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дрейк и Джош
+http://cdn2.starcinemax.fun:2095/0973/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Друзья
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ее звали Никита
+http://cdn1.starcinemax.fun:2095/0360/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Женаты и с детьми
+http://cdn1.starcinemax.fun:2095/0432/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Жуки
+http://cdn2.starcinemax.fun:2095/3061/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звездный путь Вояджер
+http://cdn2.starcinemax.fun:2095/09212/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звездный путь
+http://cdn2.starcinemax.fun:2095/09211/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звёздные врата: Атлантида
+http://cdn1.starcinemax.fun:2095/0407/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Зена
+http://cdn1.starcinemax.fun:2095/0361/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Зона. Тюремный роман
+http://cdn1.starcinemax.fun:2095/0452/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ивановы-Ивановы
+http://cdn1.starcinemax.fun:2095/0118/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Игра престолов
+http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Интерны
+http://cdn2.starcinemax.fun:2095/3037/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ищейка
+http://cdn1.starcinemax.fun:2095/0390/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Каменская
+http://cdn1.starcinemax.fun:2095/0320/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Клан Сопрано
+http://cdn2.starcinemax.fun:2095/3001/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Клиника
+http://cdn1.starcinemax.fun:2095/0401/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Коломбо
+http://cdn2.starcinemax.fun:2095/0813/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Крутой Уокер
+http://cdn1.starcinemax.fun:2095/0362/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Кухня
+http://cdn1.starcinemax.fun:2095/0371/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Любовь на районе
+http://cdn1.starcinemax.fun:2095/0313/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мажор
+http://cdn1.starcinemax.fun:2095/0363/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ментовские войны
+http://cdn2.starcinemax.fun:2095/0467/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Метод Фрейда
+http://cdn1.starcinemax.fun:2095/0364/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Милиционер с Рублёвки
+http://cdn1.starcinemax.fun:2095/0392/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мир! Дружба! Жвачка!
+http://cdn2.starcinemax.fun:2095/0927/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мисс Марпл Агаты Кристи
+http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мистер Робот
+http://cdn2.starcinemax.fun:2095/3002/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Молодёжка
+http://cdn1.starcinemax.fun:2095/0387/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мосгаз
+http://cdn2.starcinemax.fun:2095/0931/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мылодрама
+http://cdn2.starcinemax.fun:2095/0929/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Наследники
+http://cdn2.starcinemax.fun:2095/3004/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Не родись красивой
+http://cdn2.starcinemax.fun:2095/0710/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ольга HD
+http://cdn1.starcinemax.fun:2095/0412/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Она написала убийство
+http://cdn2.starcinemax.fun:2095/3052/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Папины дочки
+http://cdn1.starcinemax.fun:2095/0335/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Пес
+http://cdn1.starcinemax.fun:2095/0400/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",По законам военного времени
+http://cdn1.starcinemax.fun:2095/0101/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Полицейский с Рублевки
+http://cdn2.starcinemax.fun:2095/3039/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Полтергейст: Наследие
+http://cdn2.starcinemax.fun:2095/3055/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Последний из Магикян
+http://cdn1.starcinemax.fun:2095/0441/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Прапорщик Шматко или Ё-моё
+http://cdn1.starcinemax.fun:2095/0437/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сваты
+http://cdn2.starcinemax.fun:2095/3040/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сверхъестественное
+http://cdn1.starcinemax.fun:2095/0147/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Семья
+http://cdn1.starcinemax.fun:2095/0316/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",СеняФедя
+http://cdn1.starcinemax.fun:2095/0385/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сериал крот
+http://cdn2.starcinemax.fun:2095/0645/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Склифасовский
+http://cdn1.starcinemax.fun:2095/0367/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Служба 911
+http://cdn1.starcinemax.fun:2095/0366/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Солдаты
+http://cdn1.starcinemax.fun:2095/0125/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Соледад
+http://cdn2.starcinemax.fun:2095/7033/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Спрут
+http://cdn1.starcinemax.fun:2095/0435/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Старый Универ
+http://cdn2.starcinemax.fun:2095/0928/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сумеречная зона
+http://cdn2.starcinemax.fun:2095/3057/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Счастливы вместе
+http://cdn1.starcinemax.fun:2095/0306/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",ТНТ премьер
+http://cdn2.starcinemax.fun:2095/30000/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Твин Пикс
+http://cdn2.starcinemax.fun:2095/0821/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Теория большого взрыва
+http://cdn1.starcinemax.fun:2095/0368/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Тюрьма Оз
+http://cdn2.starcinemax.fun:2095/3054/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Убойная сила
+http://cdn2.starcinemax.fun:2095/0717/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Улицы разбитых фонарей
+http://cdn2.starcinemax.fun:2095/0930/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Физрук
+http://cdn2.starcinemax.fun:2095/0731/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",ЧОП
+http://cdn2.starcinemax.fun:2095/1400/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Чернобль
+http://cdn1.starcinemax.fun:2095/0047/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Чужой район
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Элен и ребята
+http://cdn1.starcinemax.fun:2095/0373/index.m3u8?token=137946825
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Адам Сэндлер
+http://cdn2.starcinemax.fun:2095/3019/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Аль Пачино
+http://cdn1.starcinemax.fun:2095/0303/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Альфред Хичкок
+http://cdn2.starcinemax.fun:2095/3032/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Андриано Челентано
+http://cdn1.starcinemax.fun:2095/0340/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Антонио Бандерас
+http://cdn1.starcinemax.fun:2095/0376/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Арнольнд Шварцнегер
+http://cdn1.starcinemax.fun:2095/0064/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Брэд Питт
+http://cdn2.starcinemax.fun:2095/0919/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Брюс Уиллис
+http://cdn1.starcinemax.fun:2095/0117/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Вин Дизель
+http://cdn1.starcinemax.fun:2095/0081/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Вуди Аллен
+http://cdn1.starcinemax.fun:2095/0380/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Гэри Дэниелс
+http://cdn2.starcinemax.fun:2095/3050/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Деми Мур
+http://cdn1.starcinemax.fun:2095/0305/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джейсон Стэйтем
+http://cdn1.starcinemax.fun:2095/0103/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джеки Чан
+http://cdn1.starcinemax.fun:2095/0073/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джет Ли
+http://cdn2.starcinemax.fun:2095/0918/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джим Керри
+http://cdn1.starcinemax.fun:2095/0110/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джон Траволта
+http://cdn2.starcinemax.fun:2095/3033/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джонни Депп
+http://cdn1.starcinemax.fun:2095/0307/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джордж Клуни
+http://cdn1.starcinemax.fun:2095/0308/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Джулия Робертс
+http://cdn1.starcinemax.fun:2095/0309/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Дольф Лундгрен
+http://cdn2.starcinemax.fun:2095/0920/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Дон Дракон Уилсон
+http://cdn2.starcinemax.fun:2095/3017/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Дрю Бэрримор
+http://cdn1.starcinemax.fun:2095/0343/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Ежи Штур
+http://cdn2.starcinemax.fun:2095/0637/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Жан Рено
+http://cdn2.starcinemax.fun:2095/0040/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Жан клод вандам
+http://cdn1.starcinemax.fun:2095/0106/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Жан поль Бельмондо
+http://cdn1.starcinemax.fun:2095/0213/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Квентин Тарантино
+http://cdn2.starcinemax.fun:2095/0045/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Киллиан Мёрфи
+http://cdn1.starcinemax.fun:2095/0384/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Кира Найтли
+http://cdn2.starcinemax.fun:2095/0824/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Крис Коламбус
+http://cdn2.starcinemax.fun:2095/0922/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Кэмерон Диас
+http://cdn1.starcinemax.fun:2095/0311/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Леонардо Ди Каприо
+http://cdn1.starcinemax.fun:2095/0312/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Луи де Фюнес
+http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Майкл Дуглас
+http://cdn1.starcinemax.fun:2095/0345/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Маттиас Хьюз
+http://cdn2.starcinemax.fun:2095/0652/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Мел Гибсон
+http://cdn2.starcinemax.fun:2095/0923/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Милла Йовович
+http://cdn1.starcinemax.fun:2095/0346/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Николас Кейдж
+http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Николь Кидман
+http://cdn1.starcinemax.fun:2095/0403/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Паоло Вилладжо
+http://cdn2.starcinemax.fun:2095/0905/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Пьер Ришар
+http://cdn1.starcinemax.fun:2095/0124/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Ридли Скотт
+http://cdn1.starcinemax.fun:2095/0428/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Сильвестр Сталлоне
+http://cdn2.starcinemax.fun:2095/0052/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Синтия Ротрок
+http://cdn2.starcinemax.fun:2095/3015/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Стивен Сигал
+http://cdn1.starcinemax.fun:2095/0071/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Стивен Спилберг
+http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Уил смит
+http://cdn1.starcinemax.fun:2095/0318/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Хью Джекман
+http://cdn2.starcinemax.fun:2095/hyu_dzhekman/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Чак Норрис
+http://cdn2.starcinemax.fun:2095/chak_norris/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Чарльз Бронсон
+http://cdn1.starcinemax.fun:2095/0394/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Эдди Мерфи
+http://cdn2.starcinemax.fun:2095/3030/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax World [тест]",Энистон Дженнифер
+http://cdn1.starcinemax.fun:2095/0185/index.m3u8?token=137946825
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",+100500
+http://cdn2.starcinemax.fun:2095/0990/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",6 кадров
+http://cdn1.starcinemax.fun:2095/0333/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",95 квартал
+http://cdn1.starcinemax.fun:2095/0418/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Comedy Club
+http://cdn2.starcinemax.fun:2095/3026/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Doс nature HD
+http://cdn1.starcinemax.fun:2095/0322/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Doс nature relax HD
+http://cdn1.starcinemax.fun:2095/0024/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Hublle
+http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Kosmo
+http://cdn2.starcinemax.fun:2095/3027/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",The Chase
+http://cdn2.starcinemax.fun:2095/0977/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",The Cube
+http://cdn2.starcinemax.fun:2095/0974/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Tik Tok
+http://cdn1.starcinemax.fun:2095/0021/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Top Gear (Топ Гир)
+http://cdn1.starcinemax.fun:2095/0422/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",UFO
+http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Банды 90-ых
+http://cdn1.starcinemax.fun:2095/00108/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Бородач
+http://cdn1.starcinemax.fun:2095/0446/index.m3u8?token=137946825
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",В мире животных
+http://cdn1.starcinemax.fun:2095/0442/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Вне закона
+http://cdn1.starcinemax.fun:2095/00115/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Выжить любой ценой
+http://cdn1.starcinemax.fun:2095/0323/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Высоцкий Документалка
+http://cdn2.starcinemax.fun:2095/0904/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Галилео
+http://cdn1.starcinemax.fun:2095/0414/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Голые и смешные
+http://cdn1.starcinemax.fun:2095/0419/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Городок
+http://cdn1.starcinemax.fun:2095/0327/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Даёшь молодёжь!
+http://cdn1.starcinemax.fun:2095/0334/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Дизель Шоу
+http://cdn1.starcinemax.fun:2095/0328/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Дорожный патруль
+http://cdn1.starcinemax.fun:2095/00111/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Ералаш
+http://cdn1.starcinemax.fun:2095/0004/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Жак-Ив Кусто
+http://cdn1.starcinemax.fun:2095/0142/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Женщина в любви
+http://cdn1.starcinemax.fun:2095/0455/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Жестокий ангел
+http://cdn1.starcinemax.fun:2095/0457/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Жизнь замечатетьных людей
+http://cdn1.starcinemax.fun:2095/0411/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Задорнов
+http://cdn2.starcinemax.fun:2095/0970/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Земля любви
+http://cdn1.starcinemax.fun:2095/0458/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Империя страсти
+http://cdn1.starcinemax.fun:2095/0415/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Итальянцы by
+http://cdn2.starcinemax.fun:2095/0649/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Как это работает?
+http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Каламбур
+http://cdn1.starcinemax.fun:2095/0035/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Киножурнал Фитиль
+http://cdn2.starcinemax.fun:2095/0463/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Клон
+http://cdn1.starcinemax.fun:2095/0454/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Клуб путешественников
+http://cdn1.starcinemax.fun:2095/0443/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Космический
+http://cdn1.starcinemax.fun:2095/0001/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Маски-шоу
+http://cdn1.starcinemax.fun:2095/0337/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Махинаторы
+http://cdn2.starcinemax.fun:2095/1008/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Мир на изнанку
+http://cdn1.starcinemax.fun:2095/0100/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Мистер Бин
+http://cdn1.starcinemax.fun:2095/0338/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",На ножах
+http://cdn1.starcinemax.fun:2095/0420/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Намедни
+http://cdn1.starcinemax.fun:2095/0207/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Наша раша
+http://cdn2.starcinemax.fun:2095/0706/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Новогодний калейдоскоп мульты зарубежные
+http://cdn2.starcinemax.fun:2095/7003/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Новогодний калейдоскоп мульты советские
+http://cdn2.starcinemax.fun:2095/7004/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Новогодний калейдоскоп российские
+http://cdn2.starcinemax.fun:2095/7002/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Новогодняя дискотека
+http://cdn2.starcinemax.fun:2095/3047/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Одна за всех
+http://cdn1.starcinemax.fun:2095/0324/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Однажды в России
+http://cdn1.starcinemax.fun:2095/0315/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Окна с Дмитрием Нагиевым
+http://cdn1.starcinemax.fun:2095/0331/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Орел и решка
+http://cdn2.starcinemax.fun:2095/9011/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Осторожно Модерн
+http://cdn1.starcinemax.fun:2095/0332/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Привет из 90-х
+http://cdn1.starcinemax.fun:2095/0027/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Просто Мария
+http://cdn1.starcinemax.fun:2095/0450/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Разрушители легенд
+http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Русский ниндзя
+http://cdn2.starcinemax.fun:2095/0468/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",СВ Шоу
+http://cdn1.starcinemax.fun:2095/00110/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Своим ходом
+http://cdn2.starcinemax.fun:2095/3062/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Семейные узы
+http://cdn1.starcinemax.fun:2095/0460/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Следствие вели
+http://cdn1.starcinemax.fun:2095/0440/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Смак с Андреем Макаревичем
+http://cdn1.starcinemax.fun:2095/00109/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Угадай Мелодию
+http://cdn1.starcinemax.fun:2095/0325/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Удивительная природа
+http://cdn2.starcinemax.fun:2095/7010/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Уральские пельмени
+http://cdn1.starcinemax.fun:2095/0168/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Хентай
+http://cdn1.starcinemax.fun:2095/0321/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Хозяйка судьбы
+http://cdn1.starcinemax.fun:2095/0451/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Хроники московского быта
+http://cdn1.starcinemax.fun:2095/00112/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Царь горы
+http://cdn1.starcinemax.fun:2095/0439/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Чарли чаплин
+http://cdn2.starcinemax.fun:2095/7009/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Час Суда с Павлом Астаховым
+http://cdn1.starcinemax.fun:2095/0389/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Четыре свадьбы
+http://cdn2.starcinemax.fun:2095/0638/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Что Где Когда
+http://cdn2.starcinemax.fun:2095/3036/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Чудаки
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Funny [тест]",Криминальная россия
+http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema 90-х
+http://cdn2.starcinemax.fun:2095/3022/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Asia
+http://cdn2.starcinemax.fun:2095/0503/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Horror Kids
+http://cdn2.starcinemax.fun:2095/3012/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Sport
+http://cdn2.starcinemax.fun:2095/0926/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Teens
+http://cdn2.starcinemax.fun:2095/3016/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Woman
+http://cdn2.starcinemax.fun:2095/3013/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax Cinema [тест]",Cinema Аnimals
+http://cdn2.starcinemax.fun:2095/3014/index.m3u8?token=137946825
+
+
+
+
+
 #EXTINF:-1 group-title="Кинозалы Rutube",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=5sbFhPNb_uP2EWkb61D1NQ&e=1748913781&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=B3N8_aeEJwgWb03K7mSgCA&e=1748978579&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=PV4BYUWVWjkCt8YMC-9UTw&e=1748913781&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=1BnK4eHaAnMxv7AmWx7Elg&e=1748978579&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=w4Fc4kxtYQIPhGQCppXY4w&e=1748913781&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=nBhi1uqRhcZRCl3gnnoqww&e=1748978580&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=t-lhmeFRY_R5hQDO-oUQrw&e=1748913782&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=VGD6oM4yHKNkytJj2IWh5g&e=1748978580&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=SgKWXfJhjsZsAr9bnAj2bw&e=1748913782&scheme=https
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=cllTwSXpnf9ZEUb0DXCOOg&e=1748978580&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=WS8ux013BczbZsmXVewmMA&e=1748913783&scheme=https
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=v1v7q9jfayNykbc10AkLlg&e=1748978581&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=ezEEKV3BUYzGZxhvai5Osg&e=1748913783&scheme=https
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=y70DHVUP7CehK7FDjAEtIQ&e=1748978581&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=lmgrT6ftvzVeakv8QB0QMg&e=1748913783&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Pu4DUyQwq_2Q-_NyRqr7EQ&e=1748978581&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=XJ699owdtLErH3PDBWQ9DA&e=1748913784&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=cVMvUKi0nLYtbVyT--gzHw&e=1748978581&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=lnvqrgC5T2-pKJRFgkZpDA&e=1748913784&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=xog-nvJFpftoy3e0lvg56w&e=1748978582&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=6O7pcyIIVNx1Ps0sSi43JQ&e=1748913784&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Monster Jam TV
-https://bl.rutube.ru/livestream/fd9203319665cd24b42dba17d541fc31/index.m3u8?s=YEXc21gLemBEGt3RJxwXYA&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=_QzD_Z3uD6oQVAhoOETxeQ&e=1748978582&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Конолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=emk9MnBgxfyK6E-XXYrnZw&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=7097yfSCga404uphXdu9Jg&e=1748978583&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Sony Cine | Apple TV+
-https://bl.rutube.ru/livestream/053ac917a4334e240103ca55941f869f/index.m3u8?s=Tuu0RKc8kHZusTWZe0lJzQ&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/053ac917a4334e240103ca55941f869f/index.m3u8?s=vsVk11e0Z5RKBTUSuG3O9A&e=1748978583&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",DiscoverFilm
-https://bl.rutube.ru/livestream/e2f68aaab8ab0a7a44c79e94a1ee943a/index.m3u8?s=f52VS2GGgc_EA0ThoXyLfg&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/e2f68aaab8ab0a7a44c79e94a1ee943a/index.m3u8?s=uu41Sw4nbSEfR6BSN7Yh8w&e=1748978583&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=uvJMfjol_ZLU04opuxHw1g&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=KXdJYToiaTSasrYpXU4yWA&e=1748978585&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Кинолента 24
-https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=DojiQJ9SD4yddvsY92jLNg&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=_LgIlRdWzxUFbR9hjNtkLw&e=1748978585&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=5laKFFXPNsNPE2WucGoR7A&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=rZcClIBgONdr8v9WADqMzw&e=1748978585&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Твой 2007
-https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=HHUoSeUXRzgz8xKUvnQozA&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=sssn8aqQNMIQageNy-MG8g&e=1748978586&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=FG0or0CiCvpc-LuT-f600Q&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=3FfR5MF9yPw8jLfZvfdZPg&e=1748978586&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",78 канал
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=S8RxVoPd80ED6D6rul8NnQ&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=0_s76aAVfKqL30CXStxJ9Q&e=1748978586&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТОЛПАР-ТВ
-https://bl.rutube.ru/livestream/d506fe68746bb96512e328d3ce4cc761/index.m3u8?s=93w1X7RV_E7Pu48pToOAQA&e=1748913786&scheme=https
+https://bl.rutube.ru/livestream/d506fe68746bb96512e328d3ce4cc761/index.m3u8?s=VUP1UCIbmN-RX8ipxrP1uA&e=1748978586&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Восток ТВ
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=GVdWg5jnkImB1krsOY6mtQ&e=1748913787&scheme=https
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=AQ7snUs2gPhYG7SaGMyHJg&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=bHA9FQKHzZquPGJwLgkAxw&e=1748913787&scheme=https
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=U9CGvVaO5Q7yxS9xUREvmw&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",GLN24-Геленджик
-https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=M0bwzwJ258J2zTOCTtt0dw&e=1748913787&scheme=https
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=9lJJR7XE4FX535R1fGq74g&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ОТС HD
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=ST4S2FsoI3jya9HIK9-Otw&e=1748913787&scheme=https
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=mA6--pNhHmtZ-NbDo2S_iA&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Сургут 86 FHD
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=adeu3XjYsrAUcVHk0sivTQ&e=1748913787&scheme=https
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=I-xC95wWdtwtTTYTmAnGVg&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Сургут 1 FHD
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=TfVOYO4R9RDdf5agnuRKuw&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=EGNnLK8h06QkB2qYRE6ONg&e=1748978587&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Барс
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=WvPIITNI7DhWFdRu6qFtRg&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=q4dQssTWiKD5xEYyxNlTjg&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",БелРос
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=n2ALgYkpFd-aNlsVksARPg&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=kkZTQBgGacKSuKrky_JqsQ&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Вместе-РФ
-https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=e0WrJl-nJhINCwiP67zwrA&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=pE9dzdBw0i9pZyXZSYTI_A&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Волга
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=mRPTROJfaSK9F_PJltrVBQ&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=gXc-W3zLYlcFcmvOe_xHHw&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Волга 24
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=nIg3l0spdQ9AsTHAQJ-HYQ&e=1748913788&scheme=https
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=zW80cbK1pXYrV7KnVhK2vg&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Башкортостан 24
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=j2SSLpMhw9XNRXaPXPttIg&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=IiCGrznbdMswzs_5k9eWxw&e=1748978588&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Лен ТВ 24
-https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=3Qh5TWCK5fS7X5Vfvjfjvg&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=RslzSE3vRQiMYASWfnYOMw&e=1748978589&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=9tgW_wLFcDc3MMlSYeTpJw&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=ENRTKDobFRGHen4CgEuG1Q&e=1748978589&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Кубань 24
-https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=iP9SBbH6h9Z984PWvtybbw&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=-Gvgvgzwo9p5QmECawn6lw&e=1748978589&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Нижний Новгород 24
-https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=25UhT7h6u0UwXSL087XMKw&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=T0j3XxgdesZXXsdx4xhUnw&e=1748978589&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Саратов 24
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=Cjha_qw4bmO3Qm6zJgpQ1Q&e=1748913789&scheme=https
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=oVcsQvVeTt_4FLODZcICIA&e=1748978589&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Липецк 24
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=ia53s4nIeNhCSj78NtBFkA&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=vdmsfwgXltZdyzllTnNZjw&e=1748978590&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Ариг Ус 24
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=WkDh_lk68ClgUdOHQptKCg&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=ZfkhYM9eQu92Z64RPFl6gA&e=1748978590&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ДОН 24
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=r4OvTc-cIy-P4__hisKvqg&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=rWG3Mr7yZr7MRtWVzNA42Q&e=1748978590&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Мордовия 24
-https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=LZMwhezqJi45SeUDA53Gsg&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=zQTSfvXLk237tjXfkfV2_g&e=1748978590&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",АРИС 24
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=RT90_mPzKFE2hTlcVxyg7A&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=UvhwIK0Vyhi7gXR774VeGg&e=1748978590&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ИНФО 24
-https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=UtyVG4UfgnjCiFWUSK-mOQ&e=1748913790&scheme=https
+https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=lQwYxt6zQ-3byjYjcCsUTA&e=1748978591&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",БСТ
-https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=xPCHzObPKAG489Lgp782ZA&e=1748913791&scheme=https
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=EQSjWtU6mgaH7-TVTOB_WA&e=1748978591&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Катунь 24
-https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=BwCOKKYJOhHJcrCFdC2XBg&e=1748913791&scheme=https
+https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=JHrBiogCuVgpEA1K0QlxvA&e=1748978591&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ВЕТТА 24
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=2tqqoLlfszBRSN-YMt-Wtw&e=1748913796&scheme=https
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=6xdHX70JNQaICVxzzlzUMg&e=1748978591&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Мир 24
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=9wwoC9Qrrs-WNDgaXH1l6g&e=1748913796&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=yYoMbEldjxG6hgQmiSG7Dw&e=1748978591&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Мир
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SmfoaJkqSUrCmDvL2vDqeQ&e=1748913796&scheme=https
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=0UPKdYMS00OxWqmkh_JqJQ&e=1748978592&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Рифей-ТВ
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=7PcuO0o7bTXuXyhCvHZ5NQ&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=qRqi1wS2NhQpQm8B-Xn0HA&e=1748978592&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",АСТВ LIVE HD
-https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=IKXSK_y8VfMgJ6ldxHPgcw&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=2K_fp47LWiZoHXyvWC7p4Q&e=1748978592&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",КРИК-ТВ
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=Epo7ygmE5GISeBGnjP5GBw&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=Nb4PLDF3szeAe_2z7fwiWA&e=1748978592&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Своё ТВ FHD
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=l2lZ_-3eVxP7lh12vZJF9Q&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=NVPbpjGwMCIu4ruL99O7oA&e=1748978593&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",НЖК
-https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=QbZaMRdoAVwBiADJf6uimg&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=bNMRBOToixuPtU8L2jK8uw&e=1748978593&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",САМОТЛОР
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=mBadxFTu9OyIKAL8Dv1mEQ&e=1748913797&scheme=https
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=qb_ye5bBgsWQeNXHhC9LZQ&e=1748978593&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Юрган
-https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=p_AHFHEtaGFTj-qxtGXNtw&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=gdvjZVi0vqvf-BDXbT8neQ&e=1748978594&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",НТС Иркутск
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=cwN0FWmRMk43EtNzqqCHpQ&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=ilH2TdoNpSPUbQqC-K22rA&e=1748978594&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Липецкое время
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=8khuFck5SPOg8wMI8AE36g&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=aPPU_Ert5luvjlmH7H781A&e=1748978594&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Евразия
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=R2sm4CAVTyuxGsR_tYjMzA&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=z-j0xLa-ndxYnJR4ZI__5A&e=1748978595&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",РБК
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=2Q0w6zwSwkVrKprjkVvlpw&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=mJ1rvecHw84r78VkRV8NzA&e=1748978595&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТОЛК
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=8evsC9tpnJUdiJkE-gsz9g&e=1748913798&scheme=https
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=D2xLNrhhaWHZ7Stz9Yuz5g&e=1748978595&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ННТВ
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=74erh932AWqgqQPnM2j61w&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=TYf26UFzgFvXPQDP_ieqxA&e=1748978595&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",МТВ Волгоград
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=6R3pAbuapQIhq4elYj6nhQ&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=v-OowYuYk-4lw9iIc_cf9g&e=1748978596&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Енисей +4 (Орион)
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=9aFRtRFn4jkMfd3czxO6Pw&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=49b88IZjs8rB0RG72f4ZlA&e=1748978596&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=qKPeB8gvC4_q9WyrcWcrgQ&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=GwOJ0rdzReakzW5cZzRMhA&e=1748978596&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ОмскТВ
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=NS7-JaXdCxoeUDb5lHQrCQ&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=XIYwlhkLIC0zu5dZaw_3lg&e=1748978596&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",7 канал Красноярск
-https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=1mxGgbkaFpWXwEWZysxIGA&e=1748913799&scheme=https
+https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=0BpjxuFET-1mWSdgWFhc-g&e=1748978597&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТБВ
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=OQDLIeyGZXl0VOuGZ_1TQg&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=8q4E8t1H3jmvJTBiflicVQ&e=1748978597&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТСТ
-https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=Nh3RvApZZQZ_LwTmsTMr6g&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=axSX3F5mG3fMXzJu445JbQ&e=1748978597&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Ямал-Медиа
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=RhxhVXI_9Ho73kHNxD4mHQ&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=3VqVmY5aBsGgrnGrZrRnXQ&e=1748978598&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",UNIVER TV
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=pPyzz_rENz7u-WgPRXgs4w&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=LR1a9phRfGVlhylB8YwL-g&e=1748978598&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",МИТВ
-https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=nKVPMrAUYxofk97L3XYhIg&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=-sBDpEHwfOvVg1hU90WTcQ&e=1748978598&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Магас
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=rAOmOWH8GxFVrOMYJjLCRg&e=1748913800&scheme=https
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=QTmnm0VE2BBu54Vv2FEF4A&e=1748978598&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Прима
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=JEWSRthOV9ceSp2niSb5FA&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=arAAr4q6te19V7pgZICGaQ&e=1748978599&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",360 Новости
-https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=RRLiwaut6q9EsT4ozsSu9g&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=9rat8cHApDeFYeBia4QnIQ&e=1748978599&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Первый Ярославский
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=yBzyv33mz8sl1AnxIa_NgA&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=V7wb56LVcuwRunDTcfrp7Q&e=1748978599&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Первый крымский
-https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=ouMq_T-cWMSUHHiET1275A&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=YW_-V25TpGG2wtQM2uypaw&e=1748978599&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Первый Тульский
-https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=G4dgcbcIk4IWhQj5xIt5Wg&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=PWxjoujEYtcy4ZF210bigA&e=1748978600&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ОТР
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=bonYn1GuhGQv5M1QQ6E04g&e=1748913801&scheme=https
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=8Rx6GdeCHyKq_o33xT5XHA&e=1748978600&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Истоки Орёл
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=LVk__iiji4tk5oGb9noMwg&e=1748913802&scheme=https
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=1_wh3T6hhtQHvHNzNvz5Tw&e=1748978600&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=p765pbTntFtKgZ10PHyJNg&e=1748913802&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=uiILrIBvz1u16EUJ_OoW7g&e=1748978600&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",БТВ
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=g3MESYiwsQPpZpRZv2H8zQ&e=1748913802&scheme=https
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=e4ueWe9381gLKk3Q3aoENw&e=1748978601&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Канал 12
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=QRM2Ib4rlxkZQcumQ6TfDw&e=1748913802&scheme=https
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=GJW8leXt8Ylx-QOpPWBdHQ&e=1748978601&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",10 канал
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=YixFHxkhxjrNQI8vyUBWCg&e=1748913803&scheme=https
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=Sj0_0FiTm9s9mb5__eo-5A&e=1748978601&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Среда
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=lf8cfIBv-gGyXEzRFxXPdw&e=1748913803&scheme=https
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=Ikvw1sTvwSIaMTMmOYw3GQ&e=1748978601&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ЛРТ
-https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=pfw8MxURwF651b5-6wjeEw&e=1748913804&scheme=https
+https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=tiTUHIa5Uufs3ghnUlDebQ&e=1748978602&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Спас
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=jaor534b8ukNq8yUlZqVvQ&e=1748913804&scheme=https
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=t-mm-NAiatxY4iYYbTg85A&e=1748978602&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=uvJMfjol_ZLU04opuxHw1g&e=1748913785&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=KXdJYToiaTSasrYpXU4yWA&e=1748978585&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Резонанс ТВ
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=YQRLrUmFEtJF9jco5sxHsA&e=1748913804&scheme=https
+https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=n5lByKB55CAdFxK5TSRwHg&e=1748978603&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",TV Губерния
-https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=yEpOIbLCaLv8NdYkVt0WDQ&e=1748913805&scheme=https
+https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=3t27JAD1kcWrczeWhdhzNQ&e=1748978603&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=ij2Kp4hToIL93HlkIin6hQ&e=1748913805&scheme=https
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=OvN1pRP3NzGmhWoEz1A-Bg&e=1748978603&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Смайлик ТВ
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=alp6J2AmayA82cDfPIeTZw&e=1748913805&scheme=https
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=ru3OC8298AeOZX6OtAFncw&e=1748978604&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Радость моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=EE2TW7nKe-jVrI3PdWhUgw&e=1748913805&scheme=https
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=t5cmZ3HLFqok0nMHe4v3-g&e=1748978604&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Вселенная мультфильмов
-https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=cbqGaVQyFAZlBzoSKOQ_CQ&e=1748913806&scheme=https
+https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=cqneM2jWovd16QkUbnZ2RA&e=1748978604&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Солнце
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=Z9SXiK2roUe7-bJNo9_cTQ&e=1748913806&scheme=https
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=lIT7FRyRi03SIo9ZtBIZEg&e=1748978605&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Буряад ТВ
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=7aGK9YaltXwrY8kFQCHVWQ&e=1748913806&scheme=https
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=S-gf9HWOSC9HAdg_ofxGeQ&e=1748978605&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Kpop TV
-https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=vwnTHNk5w7fV9HGAvkY05w&e=1748913806&scheme=https
+https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=K_D_kpMoFDrtTKk22wTPFg&e=1748978605&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Смотри Радио
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=WqCssJaOQGng_bvoxvOtyg&e=1748913807&scheme=https
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=xbSO2YdpxMa-nXezQy8vWQ&e=1748978605&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",41 РЕГИОН
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=GbaY4RgnA-3RnIhLVnB1Og&e=1748913807&scheme=https
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=1X04fOHC5EZoo02KmjaQIQ&e=1748978606&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=vvfNbDxoLBD0uKF-sREWMQ&e=1748913807&scheme=https
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=hZ2VHFn4dOgQmgW6P4lWGw&e=1748978607&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ТНТ Music
-https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=caqagOI43eFUlUVhglQIeQ&e=1748913808&scheme=https
+https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=1eYpssw9k9sMfLRaKMD18g&e=1748978607&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Deluxe Dance
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=xghoOAIfrFR9ve1QNY4oOQ&e=1748913808&scheme=https
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=hB9iGTcEE0enzpLAAFj_GA&e=1748978607&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Activa TV
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=SP8gSmFz9OLWFEAcXusfWw&e=1748913808&scheme=https
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=ZThLbx9Yd8ELJLEO8vH23Q&e=1748978607&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",NOW: Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=jAcBZ1ga84XIqnWhL34gow&e=1748913809&scheme=https
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=EYEb9hcRLfimZA04CFJQaA&e=1748978608&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Rock TV
-https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=ubkksIfIAVnURVXD8lFCog&e=1748913809&scheme=https
+https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=IY48MAGgnppmjwVwTU0vdQ&e=1748978608&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Record Dance Radio
-https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=o1fqdPdFr88Vv2TZ_KBp7w&e=1748913809&scheme=https
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=_b83GwPZFnRK2P8nFtNsgA&e=1748978608&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ММТВ
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=nBwR31UfKjV96Zlcd1oXJA&e=1748913809&scheme=https
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=hj3DrrdqZ_s2Skt57Oq1hA&e=1748978609&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",МузТВ
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=LJfPVCtUVfhdo_OQcC_8jg&e=1748913810&scheme=https
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=SZ4gsiuWRo530YaoANMvXw&e=1748978609&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=HspkP760Igo5-fEILlHi-g&e=1748913810&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=Dflv3l4ldCaJFtDKeMDX1w&e=1748978610&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Матч ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=bfoHOcASJKax9klu93fb-Q&e=1748913810&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=rCMEqj4R_sU16T-vO9MtUw&e=1748978610&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Comedy Hub
-https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=wQdME4qVMnq738JyILkPIw&e=1748913811&scheme=https
+https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=ZOT3ZwmBKtt2_U_yy-cZew&e=1748978610&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",beIN SPORTS XTRA Español
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=RCoWfiS_35QCbekLqD8zEw&e=1748913811&scheme=https
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=LwZEls5rTQc-E9NurqxLsg&e=1748978611&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",SKY SPORTS F1
-https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=7FTFSkpMph5O-_RjfVYAxA&e=1748913811&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",SKY SPORTS PREMIER LEAGUE
-https://bl.rutube.ru/livestream/9cc47f22f8b64783940a3be37a2c69e7/index.m3u8?s=uNuGjz26v-YFn4X1B-YXRw&e=1748913811&scheme=https
+https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=6IL-17esPxcbcefAcNiKgQ&e=1748978611&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",NHL Network US
-https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=WC-XI7MA4Wa_i2n0VKsnFQ&e=1748913812&scheme=https
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=z3u9rYoaA2VrKfMVWvZiJw&e=1748978611&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",MANCHESTER UNITED LIVE
-https://bl.rutube.ru/livestream/b3fdd0520eff7c3c2ab01529e511da03/index.m3u8?s=DY6_Yy17DJg1zPOU491I6A&e=1748913812&scheme=https
+https://bl.rutube.ru/livestream/b3fdd0520eff7c3c2ab01529e511da03/index.m3u8?s=SWTpgDpeNvphNr9oKa23oA&e=1748978612&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Red Bull TV
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=CL82jVG_RPxC9UoUoffHKg&e=1748913812&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",SuperSport Premier League
-https://bl.rutube.ru/livestream/e6fa77441a3b019526498775c5a5b9dc/index.m3u8?s=zSmCY_4-h3bZR4xXTjJEtQ&e=1748913813&scheme=https
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=ApKl8qlb568FmOtCbq6zxw&e=1748978612&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Canal Motor Sport
-https://bl.rutube.ru/livestream/115c25ffbbd675fec60ac0b85d5febe0/index.m3u8?s=B9ES2R7A-WD88Luu4-cfOA&e=1748913813&scheme=https
+https://bl.rutube.ru/livestream/115c25ffbbd675fec60ac0b85d5febe0/index.m3u8?s=bvveTrFTVCZse24Tn182DA&e=1748978612&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Billiard TV
-https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=6hcFLRdFpR9wn6TGDHrsFw&e=1748913813&scheme=https
+https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=m7BIWc7JCBou9lNNWD8Q9Q&e=1748978613&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Sport Digital HD
-https://bl.rutube.ru/livestream/ece6eac5d133f66d7777a76b920c4cb3/index.m3u8?s=RDpZdx3xdPGSgRHgczlMdQ&e=1748913814&scheme=https
+https://bl.rutube.ru/livestream/ece6eac5d133f66d7777a76b920c4cb3/index.m3u8?s=KX1UIbFnwUsGWuzQz1cQRg&e=1748978613&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Волейбол
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=KbXu7VNubtw0vSN9AlaqgA&e=1748913814&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",SPORT1+
-https://bl.rutube.ru/livestream/ef2dcc0457cd26f1ca9890272462c25d/index.m3u8?s=h_7D9YmIGoswMeqX7ho90w&e=1748913814&scheme=https
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=Jw_Q3C5DjeUJnsZuDXFXfA&e=1748978613&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",USA Sport
-https://bl.rutube.ru/livestream/a7458e3d00260f8f1150ba177d328e20/index.m3u8?s=Ulvf95uwvAZma2mRJcdbzg&e=1748913814&scheme=https
+https://bl.rutube.ru/livestream/a7458e3d00260f8f1150ba177d328e20/index.m3u8?s=HwXNZOYgyanIvPG9451kCA&e=1748978614&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Tennis+
-https://bl.rutube.ru/livestream/55078c18df2f66480b6804fad685bc44/index.m3u8?s=0yUJuRS7DqRTSXWWBhgVKA&e=1748913815&scheme=https
+https://bl.rutube.ru/livestream/55078c18df2f66480b6804fad685bc44/index.m3u8?s=KIjVXAxGRypGQ2yb9BuY9w&e=1748978614&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Racing Com
-https://bl.rutube.ru/livestream/91f864be2fa47460ab516591425c91e6/index.m3u8?s=_8VfpnfBqhPi3dQ3EG731A&e=1748913815&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",SUPERSPORT CRICKET
-https://bl.rutube.ru/livestream/c561d53dd328d727611808674ec88b58/index.m3u8?s=UuoOiqUXqbMCs3ST70xjuw&e=1748913815&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",SuperSport Rugby ZA
-https://bl.rutube.ru/livestream/0369d61bfb8ce126d15fada863cfd08f/index.m3u8?s=6HfGpVKuqCkZRr9ZY4OrtQ&e=1748913816&scheme=https
+https://bl.rutube.ru/livestream/91f864be2fa47460ab516591425c91e6/index.m3u8?s=c_gRnbrWLlFgIr_3TcYaNg&e=1748978614&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",WWE NETWORK
-https://bl.rutube.ru/livestream/f994d44e47cd2361b383eb6d8163f8ee/index.m3u8?s=1nzmX08fBzSEPE9SFPgPGQ&e=1748913816&scheme=https
+https://bl.rutube.ru/livestream/f994d44e47cd2361b383eb6d8163f8ee/index.m3u8?s=7QJIe7TKv6O7MeCIoS-czw&e=1748978615&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",WWE RETRO TV
-https://bl.rutube.ru/livestream/0567bd6a581c0a8f9e158338a24f3642/index.m3u8?s=CAYUnJDFJhSu4Xz-IYZEyg&e=1748913816&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Fight Network TV
-https://bl.rutube.ru/livestream/d09ce6253419d9ca26ba1f29c9b7820a/index.m3u8?s=xC2tALU_zdeZCtP_1N-5jw&e=1748913816&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",NFL Network HD CA
-https://bl.rutube.ru/livestream/1c8f3034af99f0f2bdf444d0cffff371/index.m3u8?s=eH97_a4tyQtUTozz_fTc1Q&e=1748913817&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Strongman Champions TV
-https://bl.rutube.ru/livestream/ce8bc34a9db0cb9ce2b795f157e57d53/index.m3u8?s=uuTBDCwfxdwxylmBxSwmQg&e=1748913817&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",NHRA TV
-https://bl.rutube.ru/livestream/1c89ae9ce10293d622dfb0c9b9b9972a/index.m3u8?s=lZhZSaX2WpjnVyZaeqPsdw&e=1748913817&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Cricket Gold TV
-https://bl.rutube.ru/livestream/833c0881e465e15f6c31dccaafe67faa/index.m3u8?s=rQ9fBzEF3RGi97TQncQ_Cw&e=1748913817&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Powder TV
-https://bl.rutube.ru/livestream/a8e8b44a9aa8a5b3232a5027883ba34c/index.m3u8?s=n8ofyZwuVvS2cEwNr-raqA&e=1748913818&scheme=https
+https://bl.rutube.ru/livestream/0567bd6a581c0a8f9e158338a24f3642/index.m3u8?s=zXd5cX4alw6a3mzcxe0yzw&e=1748978615&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=Ea4r6FquBk-1g6Fn2FkfMA&e=1748913818&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",MLB TV
-https://bl.rutube.ru/livestream/99f8efb85c6ab6acc2c997a8b26a6bef/index.m3u8?s=_fjR_ZYN93lNiGJ47lKYpg&e=1748913818&scheme=https
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=MUrzHAh7GV8c4_LGK221Vg&e=1748978619&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",TVS Classic Sports
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=9Q4CMURn8QVTJfwOV7nSIA&e=1748913819&scheme=https
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=UwQ0BzfsZSAknojuB6mDoA&e=1748978620&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Sports Connect
-https://bl.rutube.ru/livestream/f7adb677ed0cf40db973798d9cfa1883/index.m3u8?s=uvung-7B4r64zpXwm8g_oQ&e=1748913819&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Sport En France
-https://bl.rutube.ru/livestream/061ef31849ab29f17d2ab70c3cc67f2f/index.m3u8?s=tRwgLv2RMf1b3o5msLwvGw&e=1748913819&scheme=https
+https://bl.rutube.ru/livestream/f7adb677ed0cf40db973798d9cfa1883/index.m3u8?s=j9jrq2ue1NxzPhTxQefx_A&e=1748978620&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=YJtsWzlQtvTzcJakaFmCRQ&e=1748913820&scheme=https
+https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=IREhsj4ApgKc2Mx-wRWAvg&e=1748978620&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",CBS Sports Network USA
-https://bl.rutube.ru/livestream/b0b18852d54304b674e78e27c188f481/index.m3u8?s=BF-3bf0UeXBAUmuCUKNwzA&e=1748913820&scheme=https
+https://bl.rutube.ru/livestream/b0b18852d54304b674e78e27c188f481/index.m3u8?s=xce3GFlDl5TJpWW17-Hypw&e=1748978621&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",RACING AMERICA TV
-https://bl.rutube.ru/livestream/ec0614e0501efad6006dfced8390b755/index.m3u8?s=XiViDfMptgl2LY1h3IxUzg&e=1748913820&scheme=https
+https://bl.rutube.ru/livestream/ec0614e0501efad6006dfced8390b755/index.m3u8?s=rJfVtKAdiL50qYz3ROPU5A&e=1748978621&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Lax Sports Network
-https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=S2rkVqNtLVxSJP7Sv-1uvA&e=1748913820&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Court Sports NetWork
-https://bl.rutube.ru/livestream/47567c328d692e958c4f59e15bd0ea5e/index.m3u8?s=o5CNRbWHfmnzB30DeLkfeA&e=1748913821&scheme=https
+https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=sJO6Pm0EEeYpXiyVilVGbg&e=1748978621&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=rmLBNnOK9pp0gb2wbbjIRQ&e=1748913821&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",ESPN 2
-https://bl.rutube.ru/livestream/3d2fcc6a858c3e421e496572814dbbcb/index.m3u8?s=yR9PtRLFoIHe_ddlRZJQEg&e=1748913821&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",Pickle TV
-https://bl.rutube.ru/livestream/1a8052d52bb100b108fa3a6317485f6e/index.m3u8?s=cypdLzfzWpMcOVjR62pZjQ&e=1748913821&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",FUEL TV
-https://bl.rutube.ru/livestream/0fe3b087f03a42a341ad9c1442ce6895/index.m3u8?s=v0bHcKRo7lrsvGR6S0j3sg&e=1748913822&scheme=https
+https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=DDJcwzTO_9JOyTh0FxisVg&e=1748978621&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Women's Sports Network
-https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=daURkP7U5HB8sxxjhlceTQ&e=1748913822&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",FTF Sports
-https://bl.rutube.ru/livestream/97ffbbdcc2d962036e5b0d3d30c0a5e0/index.m3u8?s=R0THZckvxPHjnJUXL-G1yw&e=1748913822&scheme=https
+https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=pPFpI4CrioCQ_QnolZ0lfA&e=1748978622&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",Unbeaten
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=gkISjREI9pchExux8fqYhw&e=1748913822&scheme=https
-#EXTINF:-1 group-title="Кинозалы Rutube",HUNT and FISH
-https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=IUbc-AgPJKlRuFzyz9tdYg&e=1748913823&scheme=https
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=diHMBn9ZpyglIUP2sZw1sQ&e=1748978623&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",WORLD FISHING NETWORK
-https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=2g1ug2C-UH7hsKgYMiW79Q&e=1748913823&scheme=https
-
-
+https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=mzwgQPan1Q6vqT3d95XaOA&e=1748978623&scheme=https
 
 
 
