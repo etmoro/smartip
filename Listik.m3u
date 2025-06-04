@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Наша Сибирь
 http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkwMjQ5ODAsImlhdCI6MTc0ODkzODU4MCwiY2lkIjo2LCJ1aWQiOjkyMTM0MzA1NywicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.WrJ2-bMYD5GClf0twSToIJWvTk1KEyphdCy1-jBpg4s&offset=3
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  21:12 03.06.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:27 04.06.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -168,6 +168,129 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 #EXTINF:-1 tvg-id="mir-belogoria" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Мир Белогорья
 #EXTVLCOPT:http-user-agent=SmartTV
 http://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+
+
+
+#EXTINF:-1 group-title="Ярославль" tvg-id="pervy",Первый (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rossia1",Россия 1 (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="match-tv",Матч ТВ (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="ntv",НТВ (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="5kanal-ru",Пятый (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_5TV/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="kultura",Россия К (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rossia-24",Россия 24 (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="karusel",Карусель (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="otr",ОТР (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTR/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tvcentr",ТВ Центр (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rentv",РЕН ТВ (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="sts",СТС (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="domashny",Домашний (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tv3-ru",ТВ-3 (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="piatnica",Пятница! (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="zvezda",Звезда (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tnt",ТНТ (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="che",Че! (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="yu",Ю (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="pervy",Первый (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rossia1",Россия 1 (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="match-tv",Матч ТВ (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="ntv",НТВ (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_NTV_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="5kanal-ru",Пятый (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_5TV_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="kultura",Россия К (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rossia-24",Россия 24 (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="karusel",Карусель (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="otr",ОТР (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTR_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tvcentr",ТВ Центр (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_TVC_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rentv",РЕН ТВ (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="sts",СТС (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_STS_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="domashny",Домашний (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tv3-ru",ТВ-3 (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TV3_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="piatnica",Пятница! (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="zvezda",Звезда (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="tnt",ТНТ (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TNT_RYB/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="pervy-yaroslavsky",Первый Ярославский (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="rybinsk40",Рыбинск-40 (Рыбинск)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
+#EXTINF:-1 group-title="Ярославль" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="rbk" group-title="Новости",РБК
 http://stream-msk-07.ott.tricolor.tv/dtv/id191_MSKSG-PVR-1--RBK_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
