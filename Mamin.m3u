@@ -7,7 +7,7 @@
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  14:31 13.06.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  08:22 14.06.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -3049,6 +3049,7 @@ https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=3K
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=mn-NJ2RMpTqeRTdKmFo7pg&e=1749885873&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=UcXUcljMoZtoBvuXitcYpQ&e=1749885874&scheme=https
+
 
 
 
