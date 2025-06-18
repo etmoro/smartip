@@ -7,7 +7,7 @@
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  8:15 18.06.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  20:23 18.06.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -129,6 +129,7 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
+
 
 
 
@@ -2777,7 +2778,6 @@ http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
 
 
 
-
 #EXTINF:-1 group-title="Кинозалы Rutube",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=rI4VoSGS_J9qcYH62iss3g&e=1750274619&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",НТВ HD
@@ -4623,9 +4623,6 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 
 #EXTINF:-1 tvg-logo="https://alimentaryrecipes.com/images/stations/russkiehiti.webp" tvg-id="no_epg_radio" group-title="Радио",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
-
-
-
 
 #EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые",Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
