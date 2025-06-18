@@ -7,7 +7,7 @@
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  8:16 18.06.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  20:26 18.06.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2043,7 +2043,6 @@ https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/pls
 
 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms black cinema" group-title="Кинозалы CMS",CMS Black Cinema
 http://cdn1.starcinemax.fun:2095/0300/index.m3u8?token=137946825
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms cinema 90-х" group-title="Кинозалы CMS",CMS Cinema 90-х
@@ -2770,7 +2769,6 @@ http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
 
 
 
-
 #EXTINF:-1 group-title="Кинозалы Rutube",Rutube TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=rI4VoSGS_J9qcYH62iss3g&e=1750274619&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",НТВ HD
@@ -3043,7 +3041,6 @@ https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=5z
 https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=yiELSTLRE_nM-pU2EkL62A&e=1750274667&scheme=https
 #EXTINF:-1 group-title="Кинозалы Rutube",WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=_BjmO9uEVpuolgPmtTOWbw&e=1750274668&scheme=https
-
 
 
 
