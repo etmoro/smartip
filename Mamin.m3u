@@ -10,7 +10,7 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  12:38 03.07.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  8:54 04.07.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -423,6 +423,9 @@ http://176.107.219.20:9000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="Новости",RTVi
 http://178.134.1.158:8081/rtvi/index.m3u8
 
+#EXTINF:-1 tvg-id="euronews" group-title="Новости",EuroNews
+https://vod.splay.uz/live_splay/original/Euronews/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 
@@ -492,6 +495,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/rossia-24.png" tvg-id="rossia-24" group-title="Новости",Россия-24
 https://live-stream-13.ott.tricolor.tv/live/live/rossia_24/hls_enc/rossia_24.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
+
 
 
 
