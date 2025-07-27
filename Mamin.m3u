@@ -10,7 +10,7 @@ https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  8:17 26.07.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  8:28 27.07.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2320,7 +2320,6 @@ https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=_e
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=sbKCbdImR8s3EcuJEE260g&e=1753465543&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Таврия
 https://bl.rutube.ru/livestream/c5a272dc23ad505667bc2b54f98a3241/index.m3u8?s=orTGWh8GD5TqFOcaN5LJ9w&e=1753465543&scheme=https
-
 
 
 
