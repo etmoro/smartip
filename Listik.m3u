@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Оплата" tvg-logo="http://epg.one/img2/5573.png",Relax TV Mm
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  9:49 21.08.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  9:52 22.08.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -4128,6 +4128,8 @@ http://stream.ehrhiti.lv:8000/khr.mp3
 #EXTINF:-1 tvg-logo="https://p16-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/2bffd5e34aae71b5f2234fd2573cf3fd~c5_720x720.webp" tvg-id="no_epg_radio" group-title="Радио",EHR FM Русские Хиты 2000-х
 http://stream.ehrhiti.lv:8000/Stream_66.mp3
 
+
+
 #EXTINF:0,LIBERTY EROTIKA HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/16069/index.m3u8
@@ -4137,9 +4139,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/10049/index.m3u8
 #EXTINF:0,EXTASY HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/11051/index.m3u8
-#EXTINF:0,KinoXXX
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/11052/index.m3u8
 #EXTINF:0,ОХ-АХ HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/11068/index.m3u8
@@ -4173,27 +4172,12 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12112/index.m3u8
 #EXTINF:0,BRAZZERS TV
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12113/index.m3u8
-#EXTINF:0,Bang U
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12114/index.m3u8
-#EXTINF:0,XY Plus 1
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12115/index.m3u8
-#EXTINF:0,XY Plus 2
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12116/index.m3u8
 #EXTINF:0,XY Plus 6
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12117/index.m3u8
 #EXTINF:0,XY Plus 12
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12118/index.m3u8
-#EXTINF:0,XY Plus 24
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12119/index.m3u8
-#EXTINF:0,PASSION XXX
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12120/index.m3u8
 #EXTINF:0,Super one HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12121/index.m3u8
@@ -4221,9 +4205,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12130/index.m3u8
 #EXTINF:0,DORCEL TV FHD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12131/index.m3u8
-#EXTINF:0,DORCEL XXX TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12132/index.m3u8
 #EXTINF:0,Venus HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12133/index.m3u8
@@ -4260,9 +4241,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12143/index.m3u8
 #EXTINF:0,VERAPORN FEET
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12144/index.m3u8
-#EXTINF:0,VERAPORN BIG TITS
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12145/index.m3u8
 #EXTINF:0,PINK EROTICA 1
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12146/index.m3u8
@@ -4332,36 +4310,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12168/index.m3u8
 #EXTINF:0,SL HOT 9 HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12169/index.m3u8
-#EXTINF:0,BAG U
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12170/index.m3u8
-#EXTINF:0,XXXINTERRACIAL TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12171/index.m3u8
-#EXTINF:0,LATINA TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12172/index.m3u8
-#EXTINF:0,MILF TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12173/index.m3u8
-#EXTINF:0,PORNSTAR TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12174/index.m3u8
-#EXTINF:0,POV TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12175/index.m3u8
-#EXTINF:0,ROUGH TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12176/index.m3u8
-#EXTINF:0,RUSSIAN TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12177/index.m3u8
-#EXTINF:0,TEEN TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12178/index.m3u8
-#EXTINF:0,THREESOME TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12180/index.m3u8
 #EXTINF:0,BANGBROS UHD 4K
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/12181/index.m3u8
@@ -4410,39 +4358,15 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/14176/index.m3u8
 #EXTINF:0,cento x cento
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6184/index.m3u8
-#EXTINF:0,BRAZZERS TV Europe 2
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/872/index.m3u8
-#EXTINF:0,Sexto Senso
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/875/index.m3u8
-#EXTINF:0,SCT
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/876/index.m3u8
-#EXTINF:0,PRIVE
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/877/index.m3u8
-#EXTINF:0,Pink'o TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/874/index.m3u8
 #EXTINF:0,A3 Bikini
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6165/index.m3u8
-#EXTINF:0,Shot TV orig
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/9347/index.m3u8
 #EXTINF:0,Русская ночь orig
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/9344/index.m3u8
-#EXTINF:0,XXL orig
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/9345/index.m3u8
 #EXTINF:0,EXXXOTICA HD orig
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/9346/index.m3u8
-#EXTINF:0,SHOT TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/526/index.m3u8
 #EXTINF:0,Playboy
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/527/index.m3u8
@@ -4452,21 +4376,9 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/147/index.m3u8
 #EXTINF:0,Brazzers TV Europe
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/910/index.m3u8
-#EXTINF:0,Шалун
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/922/index.m3u8
-#EXTINF:0,Candy
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/923/index.m3u8
-#EXTINF:0,Blue Hustler
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/1064/index.m3u8
 #EXTINF:0,Barely legal
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/871/index.m3u8
-#EXTINF:0,Passion XXX
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/878/index.m3u8
 #EXTINF:0,Redlight HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/242/index.m3u8
@@ -4518,9 +4430,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/5015/index.m3u8
 #EXTINF:0,Adult Time
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6166/index.m3u8
-#EXTINF:0,Anal Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6167/index.m3u8
 #EXTINF:0,Analized HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6168/index.m3u8
@@ -4542,45 +4451,21 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6173/index.m3u8
 #EXTINF:0,Bang!
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6174/index.m3u8
-#EXTINF:0,Big Ass Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6175/index.m3u8
-#EXTINF:0,Big Dick Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6176/index.m3u8
-#EXTINF:0,Big Tits Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6177/index.m3u8
 #EXTINF:0,Blacked HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6178/index.m3u8
-#EXTINF:0,Blonde Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6179/index.m3u8
-#EXTINF:0,Blowjob Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6180/index.m3u8
 #EXTINF:0,Brazzers eXXtra
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6181/index.m3u8
 #EXTINF:0,Brazzers HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6182/index.m3u8
-#EXTINF:0,Brunette Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6183/index.m3u8
 #EXTINF:0,Cherry Pimps
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6185/index.m3u8
 #EXTINF:0,Club 17
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6186/index.m3u8
-#EXTINF:0,Compilation Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6187/index.m3u8
-#EXTINF:0,Cuckold Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6188/index.m3u8
 #EXTINF:0,Cum Louder
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6189/index.m3u8
@@ -4623,45 +4508,9 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6201/index.m3u8
 #EXTINF:0,Fake Taxi HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6202/index.m3u8
-#EXTINF:0,Fap TV 2
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6203/index.m3u8
-#EXTINF:0,Fap TV 3
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6204/index.m3u8
-#EXTINF:0,Fap TV 4
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6205/index.m3u8
-#EXTINF:0,Fap TV Anal
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6206/index.m3u8
-#EXTINF:0,Fap TV BBW
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6207/index.m3u8
-#EXTINF:0,Fap TV Compilation
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6208/index.m3u8
-#EXTINF:0,Fap TV Lesbian
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6209/index.m3u8
-#EXTINF:0,Fap TV Parody
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6210/index.m3u8
-#EXTINF:0,Fap TV Teens
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6211/index.m3u8
 #EXTINF:0,FemJoy
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6212/index.m3u8
-#EXTINF:0,Fetish Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6213/index.m3u8
-#EXTINF:0,Gangbang Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6214/index.m3u8
-#EXTINF:0,Gay Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6215/index.m3u8
 #EXTINF:0,Got MYLF
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6216/index.m3u8
@@ -4686,39 +4535,24 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6222/index.m3u8
 #EXTINF:0,Hot Guys Fuck
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6223/index.m3u8
-#EXTINF:0,Interracial Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6224/index.m3u8
 #EXTINF:0,Japan HDV
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6225/index.m3u8
-#EXTINF:0,Latina Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6226/index.m3u8
 #EXTINF:0,Lesbea
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6227/index.m3u8
-#EXTINF:0,Lesbian Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6228/index.m3u8
 #EXTINF:0,Lethal Hardcore
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6229/index.m3u8
 #EXTINF:0,Little Asians HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6230/index.m3u8
-#EXTINF:0,Live Cams Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6231/index.m3u8
 #EXTINF:0,Lust Cinema
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6232/index.m3u8
 #EXTINF:0,MetArt HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6233/index.m3u8
-#EXTINF:0,MILF Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6234/index.m3u8
 #EXTINF:0,Monsters of Cock
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6235/index.m3u8
@@ -4743,12 +4577,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6241/index.m3u8
 #EXTINF:0,Playboy Plus
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6242/index.m3u8
-#EXTINF:0,Pornstar Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6243/index.m3u8
-#EXTINF:0,POV Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6244/index.m3u8
 #EXTINF:0,Private HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6245/index.m3u8
@@ -4764,12 +4592,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6248/index.m3u8
 #EXTINF:0,RK TV
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6249/index.m3u8
-#EXTINF:0,Rough Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6250/index.m3u8
-#EXTINF:0,Russian Adult TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6251/index.m3u8
 #EXTINF:0,Sex With Muslims
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6252/index.m3u8
@@ -4782,12 +4604,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6254/index.m3u8
 #EXTINF:0,SINematica
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6255/index.m3u8
-#EXTINF:0,Teen Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6256/index.m3u8
-#EXTINF:0,Threesome Red TV
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6257/index.m3u8
 #EXTINF:0,Tiny4K
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6258/index.m3u8
@@ -4833,39 +4649,19 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6271/index.m3u8
 #EXTINF:0,Emanuelle HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6272/index.m3u8
-#EXTINF:0,Extreme
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6273/index.m3u8
-#EXTINF:0,Fast Boyz
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6274/index.m3u8
 #EXTINF:0,HOT
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6275/index.m3u8
 #EXTINF:0,HOT XXL HD
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6276/index.m3u8
 #EXTINF:0,Hot Pleasure
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6277/index.m3u8
-#EXTINF:0,Lesbian Affair
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6278/index.m3u8
-#EXTINF:0,Oldtimer
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6279/index.m3u8
 #EXTINF:0,Playboy LA
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6280/index.m3u8
 #EXTINF:0,Red XXX
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6281/index.m3u8
-#EXTINF:0,Sexy Hot
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6282/index.m3u8
-#EXTINF:0,Taboo
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6283/index.m3u8
 #EXTINF:0,Venus
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6284/index.m3u8
@@ -4905,9 +4701,6 @@ http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6295/index.m3u8
 #EXTINF:0,Erox HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6296/index.m3u8
-#EXTINF:0,MvH Hard
-#EXTGRP:Взрослые
-http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6297/index.m3u8
 #EXTINF:0,SuperOne HD
 #EXTGRP:Взрослые
 http://dbb9b2ce.ottolok.net/iptv/SP5XGWAM3L3LB9/6298/index.m3u8
