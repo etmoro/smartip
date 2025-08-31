@@ -9,7 +9,7 @@
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:22 30.08.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  21:12 31.08.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2038,6 +2038,7 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzA4ODAyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2NDgzMjI3LCJzZXNzaW9uX2lkIjoiNmIyMzdkODBkODVhNTIxNTc1MGNmMjM4ZDIyN2UzODMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VV5q6l0RqTpUaAS9zp_0g-CrTe8lCxwQMFkom1T_Vj4
 
 
+
 #EXTINF:-1 group-title="Кинозалы 3",BCU Action HD
 http://178.217.72.66:8080/BCUActionHD/index.m3u8
 
@@ -2090,304 +2091,186 @@ http://178.217.72.66:8080/CineMan_VHS/index.m3u8
 
 
 
-#EXTINF:-1 xui-id="589" tvg-id="" tvg-name="DITV СОЮЗМУЛТФИЛМ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV СОЮЗМУЛТФИЛМ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmRrUGr0iHehxc_EC8s_AzU3fraIkE7O3PlVEHdmveLxT/ts
-#EXTINF:-1 xui-id="590" tvg-id="" tvg-name="DITV ФИЛЬМЫ УЖАСОВ 80-х" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ФИЛЬМЫ УЖАСОВ 80-х
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpeXrmo6Sm_8KUvS6KUxIts/ts
-#EXTINF:-1 xui-id="591" tvg-id="" tvg-name="DITV Американские комедии 80-90-х" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Американские комедии 80-90-х
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXqPgYn41njNNrLTd5OSG9Dl/ts
-#EXTINF:-1 xui-id="592" tvg-id="" tvg-name="DITV ГАРИ ПОТЕР" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ГАРИ ПОТЕР
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXo0hfuaka4ZZ_SjGWgdW0w0/ts
-#EXTINF:-1 xui-id="593" tvg-id="" tvg-name="DITV Про акул" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Про акул
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpGG90y64ZdBQvS3mSPhVmI/ts
-#EXTINF:-1 xui-id="594" tvg-id="" tvg-name="DITV Про вампиров" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Про вампиров
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXqrVzhBSCfYOC7526RKC3zz/ts
-#EXTINF:-1 xui-id="595" tvg-id="" tvg-name="DITV Карпов" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Карпов
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpDKPpFUDeE32k-FFzBmQwr/ts
-#EXTINF:-1 xui-id="596" tvg-id="" tvg-name="DITV Лихач" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Лихач
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpFVCvX45C3XxE8efrjlCJg/ts
-#EXTINF:-1 xui-id="597" tvg-id="" tvg-name="DITV ФИЛЬМЫ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ФИЛЬМЫ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpW8r1qMI9p14imoMhcwzj6/ts
-#EXTINF:-1 xui-id="598" tvg-id="" tvg-name="DITV комедийные сериалы" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV комедийные сериалы
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXpveamRjbhwsQGmoyGIkPAp/ts
-#EXTINF:-1 xui-id="599" tvg-id="" tvg-name="DITV Глухарь" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Глухарь
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmT2AEsLOmsR_Ryp8tDKCgXopBNyKujGZFsDk1fO4_2sH/ts
-#EXTINF:-1 xui-id="600" tvg-id="" tvg-name="DITV Куба" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Куба
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE-_m9oRkvcupzQx707StVHF/ts
-#EXTINF:-1 xui-id="601" tvg-id="" tvg-name="DITV Walt Disney" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Walt Disney
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE_JFEOlGWTbf9bR9YbWvQaf/ts
-#EXTINF:-1 xui-id="602" tvg-id="" tvg-name="DITV Concert" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Concert
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE_0OIdNvtM_bsN9WaByDnTR/ts
-#EXTINF:-1 xui-id="603" tvg-id="" tvg-name="DITV Пёс" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Пёс
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE-jhfPUrNgHbUo-3mxe3Upc/ts
-#EXTINF:-1 xui-id="605" tvg-id="" tvg-name="DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE8o9DwlbEyCT3dKTsrx8aX5/ts
-#EXTINF:-1 xui-id="606" tvg-id="" tvg-name="DITV Агент национальной безопасности" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Агент национальной безопасности
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE8_Q0Qn_oxF7zkw6tawtnJ3/ts
-#EXTINF:-1 xui-id="607" tvg-id="" tvg-name="DITV Пятницкий" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Пятницкий
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE_J2Z2Mf7prE7-hEjhAW4hr/ts
-#EXTINF:-1 xui-id="608" tvg-id="" tvg-name="DITV Game of Thrones" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Game of Thrones
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE9O6Rm_QMHlfk4Ii9pjk_fU/ts
-#EXTINF:-1 xui-id="609" tvg-id="" tvg-name="DITV Счастливы вместе" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Счастливы вместе
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTVc-UBMXrvP4fYAdJsWEE8nmklzVRqfpeTW3isRIPH3/ts
-#EXTINF:-1 xui-id="610" tvg-id="" tvg-name="DITV КЛАССИКА ИНДИЙСКОГО КИНО" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КЛАССИКА ИНДИЙСКОГО КИНО
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-f2z3V8XDHCEa_bJ6SRqx8E/ts
-#EXTINF:-1 xui-id="611" tvg-id="" tvg-name="DITV ПАТРИОТ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ПАТРИОТ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-ccFu3GH1QyVpaaaBHdTXCT/ts
-#EXTINF:-1 xui-id="612" tvg-id="" tvg-name="DITV VHS" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV VHS
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-cXvwOCZkZ5XqYV-1XinbTX/ts
-#EXTINF:-1 xui-id="613" tvg-id="" tvg-name="DITV Зачарованные" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Зачарованные
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-dBnS_slcjcHr0P7WZbCymz/ts
-#EXTINF:-1 xui-id="614" tvg-id="" tvg-name="DITV ВОРОНИНЫ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ВОРОНИНЫ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-d7bh_7NIPVkr7jFUgrhp5O/ts
-#EXTINF:-1 xui-id="615" tvg-id="" tvg-name="DITV КОМЕДИИ СССР" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КОМЕДИИ СССР
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-eqgnCmEBuqEO6cfznF2f_p/ts
-#EXTINF:-1 xui-id="616" tvg-id="" tvg-name="DITV МАСКИ ШОУ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV МАСКИ ШОУ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-fj44NV6VGfs6jSTnObwp0N/ts
-#EXTINF:-1 xui-id="617" tvg-id="" tvg-name="DITV КЛИПЫ 90х" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КЛИПЫ 90х
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-dsoLl8RxS51nifwtOukr9L/ts
-#EXTINF:-1 xui-id="618" tvg-id="" tvg-name="DITV КОМЕДИИ 90-х" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КОМЕДИИ 90-х
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-f79_qcWeFGafYjmXOO4gzl/ts
-#EXTINF:-1 xui-id="619" tvg-id="" tvg-name="DITV КУЛИНАРИЯ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КУЛИНАРИЯ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kme-CpDzBnrRm4bw46P6Lz-fn-vh-FZ7DqJgKQnEVzvPO/ts
-#EXTINF:-1 xui-id="620" tvg-id="" tvg-name="DITV Удивительные странствия Геракла" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Удивительные странствия Геракла
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxSEi4HVSj50vKZqbmwtmBl9/ts
-#EXTINF:-1 xui-id="621" tvg-id="" tvg-name="DITV БОЕВИКИ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV БОЕВИКИ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxTCcN5m4DxHSxWp2QtpydL5/ts
-#EXTINF:-1 xui-id="622" tvg-id="" tvg-name="DITV УЖАСЫ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV УЖАСЫ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxQqeoO0cfsiyPo7uC7IbDxi/ts
-#EXTINF:-1 xui-id="623" tvg-id="" tvg-name="DITV ФАНТАСТИКА" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ФАНТАСТИКА
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxTU-91Uz6Z0uwyI6BrnGt0Z/ts
-#EXTINF:-1 xui-id="624" tvg-id="" tvg-name="DITV КОМЕДИИ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КОМЕДИИ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxTeWHd9P6W-OA5WL4ywAoh2/ts
-#EXTINF:-1 xui-id="625" tvg-id="" tvg-name="DITV Русский рок" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Русский рок
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxS_pXyKssjeoEw7MsO8Zjuc/ts
-#EXTINF:-1 xui-id="626" tvg-id="" tvg-name="DITV Детективы" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Детективы
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxSejyIv-8A7qA3Knr2-Lg6S/ts
-#EXTINF:-1 xui-id="627" tvg-id="" tvg-name="DITV Мультфильмы для малышей" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Мультфильмы для малышей
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxT4lFflHZeTFXX1n7cwZqPg/ts
-#EXTINF:-1 xui-id="628" tvg-id="" tvg-name="DITV ФИЛЬМЫ С Джеки Чаном" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ФИЛЬМЫ С Джеки Чаном
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxTSdniBJdDBfq3ZcmELznc0/ts
-#EXTINF:-1 xui-id="629" tvg-id="" tvg-name="DITV Альянс Вольных Переводчиков" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Альянс Вольных Переводчиков
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmTgHCAqCI9CV4Ts5l3i2cxSukmnz32QBRPimu5kXtg_S/ts
-#EXTINF:-1 xui-id="630" tvg-id="" tvg-name="DITV  Папины Дочки" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV  Папины Дочки
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9sijTixdmLu5ZcD4FywQZ87/ts
-#EXTINF:-1 xui-id="631" tvg-id="" tvg-name="DITV Осторожно модерн!" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Осторожно модерн!
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9sBKJCje0Ak26m4A4bJ2xd2/ts
-#EXTINF:-1 xui-id="632" tvg-id="" tvg-name="DITV Шоу Бенни Хилла" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Шоу Бенни Хилла
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9u7NsCrsSoDLABMoKXAJyTC/ts
-#EXTINF:-1 xui-id="633" tvg-id="" tvg-name="DITV НТВ Сериалы" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV НТВ Сериалы
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9sJzfZhL9BJzRl0C-sM0PIJ/ts
-#EXTINF:-1 xui-id="634" tvg-id="" tvg-name="DITV Детективные сериалы" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Детективные сериалы
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9tH4yzjw1k1O5F8pjYrUWBw/ts
-#EXTINF:-1 xui-id="635" tvg-id="" tvg-name="DITV  Ивановы-Ивановы" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV  Ивановы-Ивановы
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9vAm6nEqnufsLuogOq2eInp/ts
-#EXTINF:-1 xui-id="636" tvg-id="" tvg-name="DIZAL Домашний арест" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DIZAL Домашний арест
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9twUH9X7n1DnrhaEOEmU6kG/ts
-#EXTINF:-1 xui-id="637" tvg-id="" tvg-name="DIZAL Гости из прошлого" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DIZAL Гости из прошлого
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9tQhBKZyokZ8cxUR0q0g_Ra/ts
-#EXTINF:-1 xui-id="638" tvg-id="" tvg-name="DIZAL КРИК" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DIZAL КРИК
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9s-aIho97XvTMXu9moAcKj4/ts
-#EXTINF:-1 xui-id="639" tvg-id="" tvg-name="DIZAL БИМ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DIZAL БИМ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmUJbJa3vIEz-viQNoWLrA9u6Tzc6KF-x-zPaAfHpcS6o/ts
-#EXTINF:-1 xui-id="640" tvg-id="" tvg-name="DITV ИНДИАНА ДЖОНС" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV ИНДИАНА ДЖОНС
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmcEFQ8cY60O-ZqJUYSGZ6Dsq0vLZxNkh3twY-0-YoUr5/ts
-#EXTINF:-1 xui-id="644" tvg-id="" tvg-name="DITV Очень странные дела" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Очень странные дела
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmcEFQ8cY60O-ZqJUYSGZ6DsSM5EzMjs8t5CGQFGgnvdI/ts
-#EXTINF:-1 xui-id="1897" tvg-id="" tvg-name="DITV МЕЧ" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV МЕЧ
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmbH8PoJ_2Nal-LJU0UTp_3QH6mbufQ63eCeWHckgDBwd/ts
-#EXTINF:-1 xui-id="2749" tvg-id="" tvg-name="DITV КАЛАМБУР" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV КАЛАМБУР
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmXoVq4Kr-96ZHsF9Cq6oUfS666ekFbSG4QkjgYTNhWNW/ts
-#EXTINF:-1 xui-id="2102" tvg-id="" tvg-name="DITV Стивена Кинга" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Стивена Кинга
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmQP8eAMBQ_cOZcO_GhKe6TqPDLVkB7sSeE5wm9yeg-cL/ts
-#EXTINF:-1 xui-id="3376" tvg-id="" tvg-name="DITV Киножурнал Фитиль" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV Киножурнал Фитиль
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmeEAHDVI2g_zxTEWRO6nBS5fUQfMElvuNcC-hYtGkT8c/ts
-#EXTINF:-1 xui-id="3654" tvg-id="" tvg-name="DITV  Невский" tvg-logo="http://dizal.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIGasBRWPvfmihhW9ID1ym0G2wE4YscT99eGWI9wGnh_.jpg" group-title="Кинозалы DITV [тест]",DITV  Невский
-http://dizal.ydns.eu:80/play/RnupvEHWPHWd8wA0ly-kmak5fUCHe42Gsjt4fKXUCC3Sbcznad9siK_frhxHkLhv/ts
-
-
-
 
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=oqJta81hvMEJNrWmeozOaw&e=1756616849&scheme=https
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=ULdE9CBj3TerRm-Xx9RVjQ&e=1756724848&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=7qnLFWT8eRwauhQ2UKBEKw&e=1756616850&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=6jjZdb-ZTuUsrvLsayLbvg&e=1756724848&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=Dr-jm4GaFGANXym937KyyA&e=1756616850&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=lH7DuvUiopJg6v6UXfe-tQ&e=1756724848&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=XU0Yfuu4Ypj0guVPHP0-ww&e=1756616850&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zqubOX_Mphe6DTcrUulJcg&e=1756724849&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=9lXe_LgWyrEX93e1zZkHjQ&e=1756616851&scheme=https
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=2ydEW7cPTtbMWXTR_xwjeg&e=1756724849&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=VHN7kvEUWJcZDpI-jutfXA&e=1756616851&scheme=https
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=zIW_tiaCgyWXXivf05Eg8g&e=1756724849&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=o49u_tBEXfPo9__F0u5J1w&e=1756616851&scheme=https
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=DJiU3qHc4MjMlIqG0XLMWw&e=1756724849&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=Yh19bFS8cY-eSYxQ--Cnug&e=1756616851&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=0oYMoph5nx0jD_G_nuavJQ&e=1756724850&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=HRdFOsTYxbXm3P-lDpQN-A&e=1756616851&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=YrGdhIRy62N0XI-L9I3sQg&e=1756724850&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=a_Afgttuq7UV_AkdNSWqUA&e=1756616852&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=NsaIk7euoOviPXHoUqmVLg&e=1756724851&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=p3mluiOzn92j3NmE9eNLbg&e=1756616853&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=nqJBjqOtEYqqTZ9I8LdkTw&e=1756724859&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Конолаффка
-https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=zreDzDP5B9-Kva0JCGF-4Q&e=1756616853&scheme=https
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=i67X6LtjsNseMz5jfIDFTQ&e=1756724860&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=POo-osc9Ho_tGMP6uzZz7g&e=1756616853&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=16SFhNzraErtimpbgPVkGw&e=1756724860&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Кинолента 24
-https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=ghR6EsgFd5rUMZu7psUQzA&e=1756616853&scheme=https
+https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=kW1vryuNXVqRDMcj-zz1mA&e=1756724860&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=vYvcjWOadK_TCFSrAJVwiA&e=1756616854&scheme=https
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=MxeCxVkYI6VTIXAApIVO0g&e=1756724860&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Твой 2007
-https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=3CWEvqWW9Cl5RiohvXgsCA&e=1756616854&scheme=https
+https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=3vF0ixka1gQhwclTiFsfVw&e=1756724861&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=Pdx_62k9Clms_bhCS6GENg&e=1756616854&scheme=https
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=J4oHm1xAoGFyhwhUqsmn8Q&e=1756724861&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=VhIznd8o05XQlzwb_XX9wQ&e=1756616854&scheme=https
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=jDz31k1XNr9nJvg-BZ2BmA&e=1756724864&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",GLN24-Геленджик
-https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=ORCEs5lpE6JjY3-xH7pyKw&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=5OVEkHDWxzzwCN5pcd8a3Q&e=1756724864&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ОТС HD
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=b3uWYsKfYKlSs_EIO1x_WQ&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=pNe110QJNhnvcSB1P_-BbA&e=1756724864&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Сургут 86 FHD
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=l_MWOOLEMUAaihQFGoXY_g&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=tI1rrBz4T3AegOfAGgvKPw&e=1756724865&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Сургут 1 FHD
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=VyxKH2gTnW8XuLYc5utAzQ&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=fAZ9w17JHEJt3FUrNTBrZw&e=1756724865&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Барс
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=ZtlK0C1EOUFPwaLSYAjBDA&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=Evsh11WDK0jb_A0Op0hQ7Q&e=1756724865&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",БелРос
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=ZNfgdBeg7ox3NF0tvUriKg&e=1756616855&scheme=https
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=lHT03Xp_pflDU35HfalT5w&e=1756724865&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Волга
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=aQuJF_tUCOSnb_iWPu6t3Q&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=wl-3x-lvzlNZoxiwaUO5dA&e=1756724866&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Волга 24
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=k6RWlUT4dc-Cnv1EZBMgBw&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=GBS6lBkNzYte8rAbeQ14vg&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Башкортостан 24
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=ZGa9bq6oHoHGTQB3AiL1iA&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=6q5dOscxM8WYR16-JrhXMQ&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=6-1vpf5nOorR0liGmufuGg&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=nZPTXWUSRKMRr-Pt3B8Hgw&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Кубань 24
-https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=Kzzty-9wIYq60LI6kxvZoA&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=Mlw-CgK9xg5mMmxTG_2O3g&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Саратов 24
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=Ggcr8p7wQGyxttIUFundKw&e=1756616856&scheme=https
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=9xgU195TZD8tgnjEhBKVvQ&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Липецк 24
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=6wFftK-9eQSFB4rRL3a4oA&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=TXFkR6FiZXD--fD9uWr_ow&e=1756724867&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Ариг Ус 24
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=WhdGO-Aaa24CULMw8xI_sQ&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=EK0tJZlsNopG-4Zr4bSI0g&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ДОН 24
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=dWYyX-t5dFd_PEta4rKWaQ&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=kd7YVA4Otus2k2AoqQRzrQ&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Мордовия 24
-https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=cpSg7KirAJiOkhzi7vxtkg&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=7AW-FWyAumFhsvsINaZmaQ&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",АРИС 24
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=BMnIP2JiOzckfoiA8v60ig&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=TQNqS3pgkHsxAqlGqnCIyQ&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",БСТ
-https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=ycaxkhVU5IYp3Az5Dnuzug&e=1756616857&scheme=https
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=udUmA24rFPI8qVGB8fvdYg&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Катунь 24
-https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=He2eA6ak3Gey-vVAEihGhA&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=MdojI-K9UkHh5ezeBUWplg&e=1756724868&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ВЕТТА 24
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=l-k89tDauX8Jz6JUp-qsDw&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=ZvkyYREUnBWhYHAo5sJaSQ&e=1756724869&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Мир 24
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=hxTQZb7z4dGRkTS7oeuZSQ&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=jiNejmdGB9YHyKpwQ2yaSQ&e=1756724869&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Мир
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=9VLTydKV4Wz7uvtReB0ifA&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=cCb8jnIBrZ9IYGrQi0qUEA&e=1756724869&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Рифей-ТВ
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=x0RfT2dhSY4UxlUtGNV_mw&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=OVnf2PlX2LeypHRu-e-6tg&e=1756724869&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",КРИК-ТВ
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=qzf9Z7I2oLdLgKoaSd-kGg&e=1756616858&scheme=https
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=c8_tKFuY6kq8pWkTwSaG5g&e=1756724870&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Своё ТВ FHD
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=McuZB1lD6Zy94SuBgdGM3g&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=skasAH-fCsE22pCS6juapA&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",НЖК
-https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=BP_iQCMR3lLBuI9NC6hnRg&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=D0_rcYH_t7jrmUfi0l0wlw&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",САМОТЛОР
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=emG9eOA29dEDImI07aqqjA&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=YEF_FKKxFhUk6fDEhylXTg&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",НТС Иркутск
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=F5gk1sOJgelt0J9edP1GGA&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=PRPvvZO8L_ndX6GvgXyrtg&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Липецкое время
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=ajjlCL6ZgcU85IgN3I-HzQ&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=o7hwlEzZBhefvXsOwzchLg&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Евразия
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=wCeSguK0K8AbJWLQL4WGvQ&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=jQbECakYxcL6rwr1Jgso3A&e=1756724871&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ТОЛК
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=GnK9E6XTmoBNf3yxI2Le7w&e=1756616859&scheme=https
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=lZnCLoCYnHMKpL5NfQEDnA&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ННТВ
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=N_k7mvS11cCdhw1VpGQOLQ&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=utzODC2AIW5puoJJ8-AlcQ&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",МТВ Волгоград
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=snyX4CJ9bNjCzAcSw5RReA&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=VyCUUtw1c9hcC6tsEzZ1mQ&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Енисей +4 (Орион)
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=eEuKnNsChRM2fg-Z3TjF3w&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=39KP1Ys8afXIsNFHvGRmUQ&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=6r0ru8qBPCWcoyl7PCa7CQ&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=KjC2Phwx8fAnEYK9KwIPzg&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ОмскТВ
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=MJsj5ZYYCivfuDCbRdfHIg&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=ECdOnDtzC0MK5Efb89wDrw&e=1756724872&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ТБВ
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=NMA8sWbFlddNVOCgLkPXOQ&e=1756616860&scheme=https
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=XR9ZcsT7FKFCbviv9T0arg&e=1756724873&scheme=https
+#EXTINF:-1 group-title="Кинозалы RUTUBE",ТСТ
+https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=2y6sFXcAuXDQFIzMB3ZTsQ&e=1756724873&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Ямал-Медиа
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=eTXtqa4JHjp4wtjn8_11GA&e=1756616861&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=s3SEbT_zJPDdr-WWooTJEg&e=1756724873&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",UNIVER TV
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=yMMhaX71PCwT_O1Gyo-DhA&e=1756616861&scheme=https
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=3_MRwGE2cLlsoYWAClYjeA&e=1756724873&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Магас
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=Xel8PamNuy7KriM4zHkXsg&e=1756616861&scheme=https
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=rYEqdgvoADmGKMrSDamvVQ&e=1756724873&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Первый Ярославский
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=jYnZL88Mw0K86QAgLb6Uqg&e=1756616861&scheme=https
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=655AH1Ge4jb45PCdf6yrLA&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Первый крымский
-https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=Ew7VCgHDRfZ-6C6s5rrRJA&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=PRuPk7DTj4pMsninzi4dZA&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Первый Тульский
-https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=VPQZyYrXW9jLj3C3Ofeogg&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=WhzLCHyaj4VZMPZxWjunww&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ОТР
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=cXVlPaZxg9IDBBgclB7UbQ&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=JFSDw0zsNCI0vgvtFrdHrA&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Истоки Орёл
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=IZruXM4Uv0E-rzUtEQNYlg&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=KRtDG9_E8p8pzIwlRqFOYA&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9C9XwqsCHXbIWgizXZNJPg&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ykPbi7n-8MBLlZUGitx_QQ&e=1756724874&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Канал 12
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=aw7Ii6dXFI0Bf0J1NXF1tw&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=FTIt2FZF_uZq_Lw-Mw0RlA&e=1756724876&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",10 канал
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=8yelsLyiaYnwrD3aXshUzA&e=1756616862&scheme=https
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=Pu92niMWifKiSeC7pPlTJQ&e=1756724876&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ЛРТ
-https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=6Wx_rwO4AN3XNXCCslaxnA&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=o7hnlYTh9OMf49LJgIcC_w&e=1756724876&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Спас
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=wFkU95jg60BYNnlL8Blj_A&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=4xvo5AKtm4wn72Ec9J8tuw&e=1756724876&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=z9itjtbIlKGwmm4hV5YKTg&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=e31DPsp9glLLCsG934mmdw&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Резонанс ТВ
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=GXUVOeRp6R6LSBnYFUEj8Q&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=HOgE6M5yF1ItADEote11Xw&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",TV Губерния
-https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=yhbrAStzl5D-QTtNQ8UCHg&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=Bm9MNLQbmYvEcIcIyS7Bhw&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Смайлик ТВ
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=ORkZCOm--UB3xe5HBbKhBw&e=1756616863&scheme=https
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=NAhH0CfkPTAeGZNw-ztfDQ&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Радость моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=4rYOc78honzkKd8nkkCL5A&e=1756616864&scheme=https
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=2EtaFhbEMgI2oQH0eT0trA&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Вселенная мультфильмов
-https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=N_QrYAjTDAyVQnmI1dankA&e=1756616864&scheme=https
+https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=_dd4EzqKQbXmv_FqzxF7MA&e=1756724877&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Смотри Радио
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=H4D8ubFLaL_jlL3IyEcS_g&e=1756616864&scheme=https
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=VbKGrmc_IUZ9STJKPo4LhQ&e=1756724878&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",41 РЕГИОН
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=TKKortCmr_LUuSijENcFmQ&e=1756616864&scheme=https
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=i8vomuTODhZkN8CdVALNVQ&e=1756724878&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=ekYXTCYmUME-53DD55b7Rg&e=1756616864&scheme=https
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=-EKGz6jsL6tEt9dvmszD9w&e=1756724878&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Activa TV
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=dGH3xqVuxhI74xO6lKsd6w&e=1756616865&scheme=https
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=jJlArBBrw-skMD1fkl3plQ&e=1756724879&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",NOW: Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_zWopvGTXEi_RdLqgA8bdw&e=1756616865&scheme=https
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=_pQ5UqDwnmvlGHKZkYl1Mg&e=1756724879&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=wpzONFuz6KZuIjfMw958uQ&e=1756616866&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=D1nxnbGH_jFlaAypPKkAYw&e=1756724880&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Матч ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Bn63f2R9iNGCZztzgbUKHQ&e=1756616866&scheme=https
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=7ItEbQyzoc6vbl8m_ZzmSA&e=1756724880&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Comedy Hub
-https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=vhmu19We5_go_JudsXG5_A&e=1756616866&scheme=https
+https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=jQHuvX7Pah1N2WH0BtL-Tw&e=1756724880&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",beIN SPORTS XTRA Español
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=9uU5YyFq2uATXtSl2MSjsQ&e=1756616866&scheme=https
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=h0rlOhkzI216TTFmjGXyPg&e=1756724880&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Billiard TV
-https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=FtSocOqEmqv3EV0MQmzIWw&e=1756616867&scheme=https
+https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=iMCc4EXCHy4R6rZJTg_aYw&e=1756724881&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Волейбол
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=209GU_ag9JMbAPtLcY-ozw&e=1756616867&scheme=https
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=SqTLcJqM9RBEz7veZtdbEA&e=1756724881&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=AKxkAr8TuWHrDWtNAYN8Sw&e=1756616869&scheme=https
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=pCqO1cVI4kqof5aYH9D6Lw&e=1756724884&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",TVS Classic Sports
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=FrOiPSo4S6FhAZFd963uYw&e=1756616869&scheme=https
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=IF-ijtWJZxgP3DvnbYGDTA&e=1756724884&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=-kj9xrQH9yJ6ae5h4b6jlg&e=1756616869&scheme=https
+https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=sPSCdZq3fiQDY0dU0EIpKg&e=1756724884&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",Lax Sports Network
-https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=c1aMas2q4EqXGG_LJp97IA&e=1756616870&scheme=https
+https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=PkxMJrS-mVuXGO3t4uLSXA&e=1756724885&scheme=https
 #EXTINF:-1 group-title="Кинозалы RUTUBE",ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=_cnxeT2Os4rh5U1NWKmQjg&e=1756616870&scheme=https
-
-
-
+https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=_GJJ3mzalg-CETyqacaKug&e=1756724885&scheme=https
