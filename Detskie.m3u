@@ -1,7 +1,7 @@
 #EXTINF:-1 group-title="Детские" tvg-logo="http://epg.one/img2/5573.png",Relax TV Mm
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин  09:24 07.09.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин  9:01 08.09.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -302,69 +302,5 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id905_MSKSG-PVR-1--Kinozal_10/04/plst.
 #EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0304/fa/9c62112b7d4c9e0397102f24c70a92fa.png" tvg-id="zal-11-tricolor" group-title="Детские",СМЕШАРИКИ
 https://stream-msk-16.ott.tricolor.tv/dtv/id976_MSKSG-PVR-1--Kinozal_11/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1NzQ2OTYyNiwiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU2ODY0ODI2LCJzZXNzaW9uX2lkIjoiMzg3ODE0ODlhM2YyNTY2Mzg2NDY5ZjFlODM3MGU3ZTAiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vdeeiIejdEKI9QXXZ6QnN3N_SAE2rnNGWzVIyAdxvL0
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",1 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e01.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",2 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e02.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",3 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e03.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",4 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e04.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",5 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e05.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",6 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e06.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",7 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e07.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",8 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e08.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",9 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e09.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",10 Серия 1 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/6f9f4c55335dd6484f9097f7a9d7e1de/s01e10.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",1 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e01.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",2 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e02.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",3 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e03.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",4 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e04.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",5 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e05.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",6 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e06.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",7 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e07.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",8 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e08.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",9 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e09.mp4
-
-#EXTINF:-1 tvg-id="no_epg_mult" tvg-logo="https://i.ytimg.com/vi/EiHAAD0zmCQ/maxresdefault.jpg" group-title="Детские - Мир Юрского периода: Теория хаоса",10 Серия 2 Сезон
-https://svd5.kvb.cool/video_mp4/serials/JurassicChaosTheory/48a5d8de9996ce7314ca2c15ad71979e/s02e10.mp4
 
 
