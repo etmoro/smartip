@@ -6,7 +6,7 @@
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  21:11 12.09.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  10:03 13.09.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -128,9 +128,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R0
-
-
-
 
 
 
@@ -1971,6 +1968,9 @@ http://132544.edgevideo.ru/streams/132544_931337/1325441080/index.m3u8
 
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://telik.live/images/fmc-tv.png",FMC 
 https://132544.edgevideo.ru/streams/132544_931346/1325441080/index.m3u8
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://headicon.trovo.live/user/rbg4kbqaaaaaazaujhovgklqc4.png?ext=png&t=0",Видеокассета TV
+http://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 
 #EXTINF:-0 tvg-id="vhs-ka" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png",VHS-ка HD 
 http://vod1.stb.tvime.ru/VHS-KA_HD/video.m3u8?token=billing_w7zMwxDfeEzh!BOw3c3IduQe&21yo=0
