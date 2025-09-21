@@ -9,7 +9,7 @@
 http://5eofqvsi.megogo.xyz/iptv/HB48UNXSPWWP9QXMBASRRUAQ/13030/index.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  21:30 20.09.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  10:17 21.09.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2044,103 +2044,3 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 
 #EXTINF:-1 tvg-logo="https://kino-static.tricolor.ru/media/v2/40dcffa8-1371-47c2-b9e7-1e3c64c6076f" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NTAyNTUwMDM1ODM5NSIsImV4cCI6MTc1ODY3OTIyNywiaHdpZCI6IjhkMjA0NWE1N2E3NjVkYzUyMjVmYzJkZmRlNWY0NzViMDA0NzU0MmFlZDhjMWEyNGNlY2YzODNkY2ZjYmY2MjYiLCJsYXN0X3JlcV9kYXRlIjoxNzU4MDc0NDI3LCJzZXNzaW9uX2lkIjoiMmE1ZmE0NjY4YzQzODYzMDkzY2QyZGYzMDBjZGRlODQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.O5IF7tVYbZBBax8nBaFNqaO8cSrLvG3Oaj-rd9Ps4SE
-
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Action HD
-http://178.217.72.66:8080/BCUActionHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Catastrophe HD
-http://178.217.72.66:8080/BCUCatastropheHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Comedy HD
-http://178.217.72.66:8080/BCUComedyHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Fantastic HD
-http://178.217.72.66:8080/BCUFantasticHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Romantic HD
-http://178.217.72.66:8080/BCURomanticHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Stars HD
-http://178.217.72.66:8080/BCUStarsHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU VHS HD
-http://178.217.72.66:8080/BCUVHSHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",BCU Kinorating HD
-http://178.217.72.66:8080/BCUKinoratingHD/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Action HD
-http://178.217.72.66:8080/CineMan_Action/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Comedy HD
-http://178.217.72.66:8080/CineMan_Comedy/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan HD
-http://178.217.72.66:8080/CineMan/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Marvel HD
-http://178.217.72.66:8080/CineMan_Marvel/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Melodrama
-http://178.217.72.66:8080/CineMan_Melodrama/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Thriller HD
-http://178.217.72.66:8080/CineMan_Thriller/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan Top HD
-http://178.217.72.66:8080/CineMan_Top/index.m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",CineMan VHS HD
-http://178.217.72.66:8080/CineMan_VHS/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinoazija_logotip.png" tvg-id="cityedem-kinoazia" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАзия
-https://cityeden.catcast.tv/content/34393/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinoart.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноАрт
-https://cityeden.catcast.tv/content/38398/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodetektiv.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДетектив
-https://cityeden.catcast.tv/content/41327/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinodok1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДок
-https://cityeden.catcast.tv/content/38354/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinodrama_logotip.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноДрама
-https://cityeden.catcast.tv/content/45269/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinoklassika.png" tvg-id="cityedem-kinoklas" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноКлассика
-https://cityeden.catcast.tv/content/34185/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinokomedija.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноКомедия
-https://cityeden.catcast.tv/content/41331/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_kinomostika.png" tvg-id="cityedem-kinomist" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноМистика
-https://cityeden.catcast.tv/content/40783/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/kinofantastika_logotip.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноФантастика
-https://cityeden.catcast.tv/content/45268/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_siti_ehdem-kinoehkshen2.png" tvg-id="cityedem-kinoact" group-title="Кинозалы Сити Эдем",Сити Эдем - КиноЭкшен
-https://cityeden.catcast.tv/content/41333/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_telenovella.png" tvg-id="cityedem-telenov" group-title="Кинозалы Сити Эдем",Сити Эдем - Теленовелла
-https://cityeden.catcast.tv/content/46209/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_birma_plej.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - Бирма Play
-https://cityeden.catcast.tv/content/34100/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/siti_ehdem-klassika.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - Классическая Музыка
-https://cityeden.catcast.tv/content/47400/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/sirtaki_tv.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - Сиртаки ТВ
-https://cityeden.catcast.tv/content/46421/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_avtogid1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - АвтоГид
-https://cityeden.catcast.tv/content/47515/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cityeden.info/logotv/logotip_medzdrav1.png" tvg-id="no_epg_cinema" group-title="Кинозалы Сити Эдем",Сити Эдем - МедЗдрав
-https://cityeden.catcast.tv/content/47519/index.m3u8
-
-
