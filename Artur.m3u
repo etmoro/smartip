@@ -1,10 +1,11 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:-1 group-title="Оплата" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
+
+#EXTINF:-1 group-title="Инфо" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  12:30 02.12.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Инфо",Камин  14:44 04.12.2025
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -127,9 +128,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
-
-
-
 
 
 #EXTINF:0 tvg-id="1" tvg-logo="http://epg.cdntv.online/img/1.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Первый канал
@@ -351,6 +349,12 @@ http://cdntv.online/low/2e3xizt8pc/85.mpeg
 #EXTINF:0 tvg-id="86" tvg-logo="http://epg.cdntv.online/img/86.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Шансон-TB
 #EXTGRP:Музыкальные
 http://cdntv.online/low/2e3xizt8pc/86.mpeg
+
+
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" group-title="Кинозалы",Видеокасета VHS
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="87" tvg-logo="http://epg.cdntv.online/img/87.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", AMEDIA HIT HD
 #EXTGRP:Кино
 http://cdntv.online/low/2e3xizt8pc/87.mpeg
@@ -960,9 +964,6 @@ http://cdntv.online/low/2e3xizt8pc/397.mpeg
 #EXTINF:0 tvg-id="399" tvg-logo="http://epg.cdntv.online/img/399.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Музыкальные", Жара TV
 #EXTGRP:Музыкальные
 http://cdntv.online/low/2e3xizt8pc/399.mpeg
-
-
-
 #EXTINF:0 tvg-id="401" tvg-logo="http://epg.cdntv.online/img/401.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино", A1 HD
 #EXTGRP:Кино
 http://cdntv.online/low/2e3xizt8pc/401.mpeg
@@ -1527,6 +1528,48 @@ http://cdntv.online/low/2e3xizt8pc/717.mpeg
 #EXTINF:0 tvg-id="718" tvg-logo="http://epg.cdntv.online/img/718.png" group-title="Региональные", СТС Прима (Красноярск)
 #EXTGRP:Региональные
 http://cdntv.online/low/2e3xizt8pc/718.mpeg
+#EXTINF:0 tvg-id="726" tvg-logo="http://epg.cdntv.online/img/726.png" group-title="Взрослые", Русская ночь
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/726.mpeg
+#EXTINF:0 tvg-id="730" tvg-logo="http://epg.cdntv.online/img/730.png" group-title="Взрослые", Anal
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/730.mpeg
+#EXTINF:0 tvg-id="731" tvg-logo="http://epg.cdntv.online/img/731.png" group-title="Взрослые", Big Ass
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/731.mpeg
+#EXTINF:0 tvg-id="732" tvg-logo="http://epg.cdntv.online/img/732.png" group-title="Взрослые", Big Dick
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/732.mpeg
+#EXTINF:0 tvg-id="733" tvg-logo="http://epg.cdntv.online/img/733.png" group-title="Взрослые", Big Tits
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/733.mpeg
+#EXTINF:0 tvg-id="734" tvg-logo="http://epg.cdntv.online/img/734.png" group-title="Взрослые", Cuckold HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/734.mpeg
+#EXTINF:0 tvg-id="735" tvg-logo="http://epg.cdntv.online/img/735.png" group-title="Взрослые", Fetish HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/735.mpeg
+#EXTINF:0 tvg-id="736" tvg-logo="http://epg.cdntv.online/img/736.png" group-title="Взрослые", Interracial HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/736.mpeg
+#EXTINF:0 tvg-id="737" tvg-logo="http://epg.cdntv.online/img/737.png" group-title="Взрослые", Latina HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/737.mpeg
+#EXTINF:0 tvg-id="738" tvg-logo="http://epg.cdntv.online/img/738.png" group-title="Взрослые", Milf HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/738.mpeg
+#EXTINF:0 tvg-id="739" tvg-logo="http://epg.cdntv.online/img/739.png" group-title="Взрослые", POV HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/739.mpeg
+#EXTINF:0 tvg-id="740" tvg-logo="http://epg.cdntv.online/img/740.png" group-title="Взрослые", Pornstar HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/740.mpeg
+#EXTINF:0 tvg-id="741" tvg-logo="http://epg.cdntv.online/img/741.png" group-title="Взрослые", Russian HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/741.mpeg
+#EXTINF:0 tvg-id="742" tvg-logo="http://epg.cdntv.online/img/742.png" group-title="Взрослые", Visit-X TV
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/742.mpeg
 #EXTINF:0 tvg-id="744" tvg-logo="http://epg.cdntv.online/img/744.png" group-title="Украина", ЕКО-ТВ
 #EXTGRP:Украина
 http://cdntv.online/low/2e3xizt8pc/744.mpeg
@@ -2043,6 +2086,51 @@ http://cdntv.online/low/2e3xizt8pc/1114.mpeg
 #EXTINF:0 tvg-id="1115" tvg-logo="http://epg.cdntv.online/img/1115.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные", Звезда HD
 #EXTGRP:Федеральные
 http://cdntv.online/low/2e3xizt8pc/1115.mpeg
+#EXTINF:0 tvg-id="1116" tvg-logo="http://epg.cdntv.online/img/1116.png" group-title="Взрослые", Hustler HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1116.mpeg
+#EXTINF:0 tvg-id="1119" tvg-logo="http://epg.cdntv.online/img/1119.png" group-title="Взрослые", Redlight HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1119.mpeg
+#EXTINF:0 tvg-id="1122" tvg-logo="http://epg.cdntv.online/img/1122.png" group-title="Взрослые", Vivid Red HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1122.mpeg
+#EXTINF:0 tvg-id="1124" tvg-logo="http://epg.cdntv.online/img/1124.png" group-title="Взрослые", Penthouse Gold HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1124.mpeg
+#EXTINF:0 tvg-id="1125" tvg-logo="http://epg.cdntv.online/img/1125.png" group-title="Взрослые", Barely Legal TV
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1125.mpeg
+#EXTINF:0 tvg-id="1126" tvg-logo="http://epg.cdntv.online/img/1126.png" group-title="Взрослые", Loves Berry HD (18+)
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1126.mpeg
+#EXTINF:0 tvg-id="1127" tvg-logo="http://epg.cdntv.online/img/1127.png" group-title="Взрослые", FAP TV 2 HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1127.mpeg
+#EXTINF:0 tvg-id="1128" tvg-logo="http://epg.cdntv.online/img/1128.png" group-title="Взрослые", Club Sweetie Fox
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1128.mpeg
+#EXTINF:0 tvg-id="1129" tvg-logo="http://epg.cdntv.online/img/1129.png" group-title="Взрослые", FAP TV 4 HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1129.mpeg
+#EXTINF:0 tvg-id="1130" tvg-logo="http://epg.cdntv.online/img/1130.png" group-title="Взрослые", Club Parody
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1130.mpeg
+#EXTINF:0 tvg-id="1131" tvg-logo="http://epg.cdntv.online/img/1131.png" group-title="Взрослые", Club Anal
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1131.mpeg
+#EXTINF:0 tvg-id="1132" tvg-logo="http://epg.cdntv.online/img/1132.png" group-title="Взрослые", Club Teens HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1132.mpeg
+#EXTINF:0 tvg-id="1133" tvg-logo="http://epg.cdntv.online/img/1133.png" group-title="Взрослые", FAP TV Lesbian HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1133.mpeg
+#EXTINF:0 tvg-id="1134" tvg-logo="http://epg.cdntv.online/img/1134.png" group-title="Взрослые", FAP TV Compilation HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1134.mpeg
+#EXTINF:0 tvg-id="1135" tvg-logo="http://epg.cdntv.online/img/1135.png" group-title="Взрослые", Club BBW
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1135.mpeg
 #EXTINF:0 tvg-id="1143" tvg-logo="http://epg.cdntv.online/img/1143.png" group-title="Казахстан", QAZSPORT HD
 #EXTGRP:Казахстан
 http://cdntv.online/low/2e3xizt8pc/1143.mpeg
@@ -2196,14 +2284,6 @@ http://cdntv.online/low/2e3xizt8pc/1250.mpeg
 #EXTINF:0 tvg-id="1251" tvg-logo="http://epg.cdntv.online/img/1251.png" group-title="Казахстан", Qazaqstan
 #EXTGRP:Казахстан
 http://cdntv.online/low/2e3xizt8pc/1251.mpeg
-
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета VHS 2 поток
-#EXTVLCOPT:http-user-agent=SmartTV
-https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
-
-
-
-
 #EXTINF:0 tvg-id="1252" tvg-logo="http://epg.cdntv.online/img/1252.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", Cartoons 90
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1252.mpeg
@@ -2252,6 +2332,9 @@ http://cdntv.online/low/2e3xizt8pc/1266.mpeg
 #EXTINF:0 tvg-id="1267" tvg-logo="http://epg.cdntv.online/img/1267.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", Сериал "Симпсоны"
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1267.mpeg
+#EXTINF:0 tvg-id="1269" tvg-logo="http://epg.cdntv.online/img/1269.png" group-title="Взрослые", Z!Adult TV (18+)
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1269.mpeg
 #EXTINF:0 tvg-id="1271" tvg-logo="http://epg.cdntv.online/img/1271.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Катастрофы
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1271.mpeg
@@ -2447,6 +2530,12 @@ http://cdntv.online/low/2e3xizt8pc/1415.mpeg
 #EXTINF:0 tvg-id="1416" tvg-logo="http://epg.cdntv.online/img/1416.png" group-title="Кинозалы", Z!Science HD
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1416.mpeg
+#EXTINF:0 tvg-id="1424" tvg-logo="http://epg.cdntv.online/img/1424.png" group-title="Взрослые", xxx
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1424.mpeg
+#EXTINF:0 tvg-id="1425" tvg-logo="http://epg.cdntv.online/img/1425.png" group-title="Взрослые", xxx2
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1425.mpeg
 #EXTINF:0 tvg-id="1426" tvg-logo="http://epg.cdntv.online/img/1426.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", CineMan Premium
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1426.mpeg
@@ -2636,6 +2725,9 @@ http://cdntv.online/low/2e3xizt8pc/1542.mpeg
 #EXTINF:0 tvg-id="1543" tvg-logo="http://epg.cdntv.online/img/1543.png" group-title="Кинозалы", Sky High LO FI HD
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1543.mpeg
+#EXTINF:0 tvg-id="1544" tvg-logo="http://epg.cdntv.online/img/1544.png" group-title="Взрослые", Sky High SEX
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1544.mpeg
 #EXTINF:0 tvg-id="1545" tvg-logo="http://epg.cdntv.online/img/1545.png" group-title="Кинозалы", MS Animated
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/1545.mpeg
@@ -2900,6 +2992,126 @@ http://cdntv.online/low/2e3xizt8pc/1682.mpeg
 #EXTINF:0 tvg-id="1683" tvg-logo="http://epg.cdntv.online/img/1683.png" group-title="Развлекательные", Живи Активно
 #EXTGRP:Развлекательные
 http://cdntv.online/low/2e3xizt8pc/1683.mpeg
+#EXTINF:0 tvg-id="1684" tvg-logo="http://epg.cdntv.online/img/1684.png" group-title="Взрослые", EroLuxe 60FPS
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1684.mpeg
+#EXTINF:0 tvg-id="1685" tvg-logo="http://epg.cdntv.online/img/1685.png" group-title="Взрослые", EroLuxe Anal
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1685.mpeg
+#EXTINF:0 tvg-id="1686" tvg-logo="http://epg.cdntv.online/img/1686.png" group-title="Взрослые", EroLuxe Blondes
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1686.mpeg
+#EXTINF:0 tvg-id="1687" tvg-logo="http://epg.cdntv.online/img/1687.png" group-title="Взрослые", EroLuxe Blowjob
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1687.mpeg
+#EXTINF:0 tvg-id="1688" tvg-logo="http://epg.cdntv.online/img/1688.png" group-title="Взрослые", EroLuxe Cinema
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1688.mpeg
+#EXTINF:0 tvg-id="1689" tvg-logo="http://epg.cdntv.online/img/1689.png" group-title="Взрослые", EroLuxe Cosplay
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1689.mpeg
+#EXTINF:0 tvg-id="1690" tvg-logo="http://epg.cdntv.online/img/1690.png" group-title="Взрослые", EroLuxe Ebony
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1690.mpeg
+#EXTINF:0 tvg-id="1691" tvg-logo="http://epg.cdntv.online/img/1691.png" group-title="Взрослые", EroLuxe Gays
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1691.mpeg
+#EXTINF:0 tvg-id="1692" tvg-logo="http://epg.cdntv.online/img/1692.png" group-title="Взрослые", EroLuxe Gloryhole
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1692.mpeg
+#EXTINF:0 tvg-id="1693" tvg-logo="http://epg.cdntv.online/img/1693.png" group-title="Взрослые", EroLuxe Henati
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1693.mpeg
+#EXTINF:0 tvg-id="1694" tvg-logo="http://epg.cdntv.online/img/1694.png" group-title="Взрослые", EroLuxe Japanese
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1694.mpeg
+#EXTINF:0 tvg-id="1695" tvg-logo="http://epg.cdntv.online/img/1695.png" group-title="Взрослые", EroLuxe Lesbians
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1695.mpeg
+#EXTINF:0 tvg-id="1696" tvg-logo="http://epg.cdntv.online/img/1696.png" group-title="Взрослые", EroLuxe Massage
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1696.mpeg
+#EXTINF:0 tvg-id="1697" tvg-logo="http://epg.cdntv.online/img/1697.png" group-title="Взрослые", EroLuxe Milf
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1697.mpeg
+#EXTINF:0 tvg-id="1698" tvg-logo="http://epg.cdntv.online/img/1698.png" group-title="Взрослые", EroLuxe Russian Teens
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1698.mpeg
+#EXTINF:0 tvg-id="1699" tvg-logo="http://epg.cdntv.online/img/1699.png" group-title="Взрослые", EroLuxe Orgy
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1699.mpeg
+#EXTINF:0 tvg-id="1700" tvg-logo="http://epg.cdntv.online/img/1700.png" group-title="Взрослые", EroLuxe Pregnant
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1700.mpeg
+#EXTINF:0 tvg-id="1701" tvg-logo="http://epg.cdntv.online/img/1701.png" group-title="Взрослые", EroLuxe Shemales
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1701.mpeg
+#EXTINF:0 tvg-id="1702" tvg-logo="http://epg.cdntv.online/img/1702.png" group-title="Взрослые", EroLuxe Solo
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1702.mpeg
+#EXTINF:0 tvg-id="1703" tvg-logo="http://epg.cdntv.online/img/1703.png" group-title="Взрослые", EroLuxe Step Family
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1703.mpeg
+#EXTINF:0 tvg-id="1704" tvg-logo="http://epg.cdntv.online/img/1704.png" group-title="Взрослые", EroLuxe 4K UHD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1704.mpeg
+#EXTINF:0 tvg-id="1705" tvg-logo="http://epg.cdntv.online/img/1705.png" group-title="Взрослые", EroLuxe VIP 4K 60FPS
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1705.mpeg
+#EXTINF:0 tvg-id="1706" tvg-logo="http://epg.cdntv.online/img/1706.png" group-title="Взрослые", EroLuxe BBW
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1706.mpeg
+#EXTINF:0 tvg-id="1707" tvg-logo="http://epg.cdntv.online/img/1707.png" group-title="Взрослые", EroLuxe BabySitter
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1707.mpeg
+#EXTINF:0 tvg-id="1708" tvg-logo="http://epg.cdntv.online/img/1708.png" group-title="Взрослые", EroLuxe BDSM
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1708.mpeg
+#EXTINF:0 tvg-id="1709" tvg-logo="http://epg.cdntv.online/img/1709.png" group-title="Взрослые", EroLuxe Big Cock
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1709.mpeg
+#EXTINF:0 tvg-id="1710" tvg-logo="http://epg.cdntv.online/img/1710.png" group-title="Взрослые", EroLuxe Brunette
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1710.mpeg
+#EXTINF:0 tvg-id="1711" tvg-logo="http://epg.cdntv.online/img/1711.png" group-title="Взрослые", EroLuxe CheerLeader
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1711.mpeg
+#EXTINF:0 tvg-id="1712" tvg-logo="http://epg.cdntv.online/img/1712.png" group-title="Взрослые", EroLuxe Cuckold
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1712.mpeg
+#EXTINF:0 tvg-id="1713" tvg-logo="http://epg.cdntv.online/img/1713.png" group-title="Взрослые", EroLuxe Creampie
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1713.mpeg
+#EXTINF:0 tvg-id="1714" tvg-logo="http://epg.cdntv.online/img/1714.png" group-title="Взрослые", EroLuxe Fake Taxi
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1714.mpeg
+#EXTINF:0 tvg-id="1715" tvg-logo="http://epg.cdntv.online/img/1715.png" group-title="Взрослые", EroLuxe Foot Fetish
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1715.mpeg
+#EXTINF:0 tvg-id="1716" tvg-logo="http://epg.cdntv.online/img/1716.png" group-title="Взрослые", EroLuxe Fisting
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1716.mpeg
+#EXTINF:0 tvg-id="1717" tvg-logo="http://epg.cdntv.online/img/1717.png" group-title="Взрослые", EroLuxe GangBang
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1717.mpeg
+#EXTINF:0 tvg-id="1718" tvg-logo="http://epg.cdntv.online/img/1718.png" group-title="Взрослые", EroLuxe Parody
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1718.mpeg
+#EXTINF:0 tvg-id="1719" tvg-logo="http://epg.cdntv.online/img/1719.png" group-title="Взрослые", EroLuxe POV
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1719.mpeg
+#EXTINF:0 tvg-id="1720" tvg-logo="http://epg.cdntv.online/img/1720.png" group-title="Взрослые", EroLuxe Public Agent
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1720.mpeg
+#EXTINF:0 tvg-id="1721" tvg-logo="http://epg.cdntv.online/img/1721.png" group-title="Взрослые", EroLuxe RedHeads
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1721.mpeg
+#EXTINF:0 tvg-id="1722" tvg-logo="http://epg.cdntv.online/img/1722.png" group-title="Взрослые", EroLuxe Schoolgirl
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1722.mpeg
+#EXTINF:0 tvg-id="1723" tvg-logo="http://epg.cdntv.online/img/1723.png" group-title="Взрослые", EroLuxe Asian
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/1723.mpeg
 #EXTINF:0 tvg-id="1725" tvg-logo="http://epg.cdntv.online/img/1725.png" group-title="Азербайджан", Dunya TV
 #EXTGRP:Азербайджан
 http://cdntv.online/low/2e3xizt8pc/1725.mpeg
@@ -3539,6 +3751,9 @@ http://cdntv.online/low/2e3xizt8pc/2014.mpeg
 #EXTINF:0 tvg-id="2015" tvg-logo="http://epg.cdntv.online/img/2015.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", LIBERTY Комедии
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/2015.mpeg
+#EXTINF:0 tvg-id="2016" tvg-logo="http://epg.cdntv.online/img/2016.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Взрослые", LIBERTY Эротика
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/2016.mpeg
 #EXTINF:0 tvg-id="2017" tvg-logo="http://epg.cdntv.online/img/2017.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кинозалы", LIBERTY Планета 360
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/2017.mpeg
@@ -4250,6 +4465,12 @@ http://cdntv.online/low/2e3xizt8pc/2259.mpeg
 #EXTINF:0 tvg-id="2260" tvg-logo="http://epg.cdntv.online/img/2260.png" group-title="Кинозалы", Play-x Игра (тнт) HD
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/2260.mpeg
+#EXTINF:0 tvg-id="2261" tvg-logo="http://epg.cdntv.online/img/2261.png" group-title="Взрослые", Play-x Retro SEX HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/2261.mpeg
+#EXTINF:0 tvg-id="2262" tvg-logo="http://epg.cdntv.online/img/2262.png" group-title="Взрослые", Play-x Spy Sex HD
+#EXTGRP:Взрослые
+http://cdntv.online/low/2e3xizt8pc/2262.mpeg
 #EXTINF:0 tvg-id="2263" tvg-logo="http://epg.cdntv.online/img/2263.png" group-title="Кинозалы", Sky High Beyonds FHD
 #EXTGRP:Кинозалы
 http://cdntv.online/low/2e3xizt8pc/2263.mpeg
