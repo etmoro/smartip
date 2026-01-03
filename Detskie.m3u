@@ -8,9 +8,10 @@
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   11:52 31.12.2025
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   11:28 03.01.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
 
 
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль)
@@ -131,91 +132,6 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
 
-#EXTINF:-1 group-title="Кинозалы 3",CPS Action HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvzEj2x0XEeMI6rA045IV93A/m3u8
-#EXTINF:-1 group-title="Кинозалы 3",CPS Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5i3KKRDEFclwXgMvoGvE-4/m3u8
-#EXTINF:-1 xui-id="10458" tvg-id="" tvg-name="CPS Drama HD" tvg-logo="" group-title="Кинозалы 3",CPS Drama HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3e-t54Tj6uyfr4aP26ytbo/m3u8
-#EXTINF:-1 xui-id="10459" tvg-id="" tvg-name="CPS Fresh HD" tvg-logo="" group-title="Кинозалы 3",CPS Fresh HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_9pVu8efkn4HIQtrjD45q8/m3u8
-#EXTINF:-1 xui-id="10460" tvg-id="" tvg-name="CPS Investigation" tvg-logo="" group-title="Кинозалы 3",CPS Investigation
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7iBjd1FcvqzGdB3i5BKWl8/m3u8
-#EXTINF:-1 xui-id="10461" tvg-id="" tvg-name="CPS Jackie Chan HD" tvg-logo="" group-title="Кинозалы 3",CPS Jackie Chan HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-A1Vmz5q9x_RISxlXByrhs/m3u8
-#EXTINF:-1 xui-id="10462" tvg-id="" tvg-name="CPS Mix HD" tvg-logo="" group-title="Кинозалы 3",CPS Mix HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4sDkjGT2MqRJIdRvEfHtFA/m3u8
-#EXTINF:-1 xui-id="10463" tvg-id="" tvg-name="CPS Cartoon HD" tvg-logo="" group-title="Кинозалы 3",CPS Cartoon HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_VcLQAzF4jIzyOcCmtICI4/m3u8
-
-#EXTINF:-1 xui-id="10465" tvg-id="" tvg-name="Paradise HD" tvg-logo="" group-title="Кинозалы 3",Paradise HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1ymZnvpdA7VVeBxPbKNLXM/m3u8
-#EXTINF:-1 xui-id="10466" tvg-id="" tvg-name="Paradox HD" tvg-logo="" group-title="Кинозалы 3",Paradox HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv0mGTLZyQSBtfDUezq77YFc/m3u8
-#EXTINF:-1 xui-id="10467" tvg-id="PREANZ" tvg-name="Premiere HD" tvg-logo="" group-title="Кинозалы 3",Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3hp8mt7jGjo2mZDYp8o-aw/m3u8
-#EXTINF:-1 xui-id="10468" tvg-id="" tvg-name="Premium HD" tvg-logo="" group-title="Кинозалы 3",Premium HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxGlyIqJpKzz60JdDaXkvfY/m3u8
-#EXTINF:-1 xui-id="10469" tvg-id="" tvg-name="Thriller HD" tvg-logo="" group-title="Кинозалы 3",Thriller HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv69RTspOGaN2X9tv9oBUIwo/m3u8
-#EXTINF:-1 xui-id="10470" tvg-id="" tvg-name="USSR HD" tvg-logo="" group-title="Кинозалы 3",USSR HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyINZ1goWbX7bHaFmofDHME/m3u8
-#EXTINF:-1 xui-id="10471" tvg-id="" tvg-name="РуКино HD" tvg-logo="" group-title="Кинозалы 3",РуКино HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4v6E3GAxRPzSZFpK7g6XRU/m3u8
-
-#EXTINF:-1 group-title="Кинозалы 3",Clarity4K Боевик
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
-#EXTINF:-1 group-title="Кинозалы 3",Clarity4K Netflix
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9K80Kj9919zeURQC1ls5-Q/m3u8
-#EXTINF:-1 xui-id="10476" tvg-id="" tvg-name="Clarity4K Uzhasi" tvg-logo="" group-title="Кинозалы 3",Clarity4K Ужасы VHS
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1vcMzfvQsg3qIv2w4TyFSI/m3u8
-#EXTINF:-1 xui-id="10477" tvg-id="" tvg-name="Clarity-4K Комедия UHD" tvg-logo="" group-title="Кинозалы 3",Clarity4K Комедия
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4WajS2b09aCFvYL5e94y5Q/m3u8
-#EXTINF:-1 xui-id="10478" tvg-id="" tvg-name="Clarity-4K Fantastic UHD" tvg-logo="" group-title="Кинозалы 3",Clarity4K Фантастика
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv49INV_Q3fmz3vc6KLVMLiY/m3u8
-#EXTINF:-1 group-title="Кинозалы 3",Clarity4K Gamefilm
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9ilh616q4OXW1P_wmg5R_c/m3u8
-#EXTINF:-1 group-title="Кинозалы 3",Clarity4K Семейный
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2rbJdyAm9SQytYhL4-XGdI/m3u8
-#EXTINF:-1 xui-id="10481" tvg-id="" tvg-name="Clarity4K Драмы" tvg-logo="" group-title="Кинозалы 3",Clarity4K Драмы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3cw3AYcpykIevuuHuTNLHo/m3u8
-#EXTINF:-1 xui-id="10482" tvg-id="" tvg-name="Clarity4K КиноФраншизы" tvg-logo="" group-title="Кинозалы 3",Clarity4K КиноФраншизы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwTy_xynfL02EvcZe17vsIM/m3u8
-#EXTINF:-1 xui-id="10483" tvg-id="" tvg-name="Clarity4K Русские сериалы" tvg-logo="" group-title="Кинозалы 3",Clarity4K Русские сериалы
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv1FuqOHg8H8BrXSp5tXXeds/m3u8
-#EXTINF:-1 xui-id="10484" tvg-id="" tvg-name="Clarity4K Фэнтези" tvg-logo="" group-title="Кинозалы 3",Clarity4K Фэнтези
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvykLh0twtzi_g6SbofMifbQ/m3u8
-#EXTINF:-1 xui-id="10485" tvg-id="" tvg-name="Clarity4K Concert" tvg-logo="" group-title="Кинозалы 3",Clarity4K Asia
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6nnBpBDCvrcw2Wti3VqPhA/m3u8
-
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png",IPTVPLAY МультСказки HD
-http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png",IPTVPLAY ВЕДЬМАК
-http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
-http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 group-title="Кинозалы IPTVPLAY"  tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png",IPTVPLAY ИНТЕРНЫ
-http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY ФАНТАСТИКА
-http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY ПАМЯТЬ
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY УЖАСТИК
-http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кинозалы IPTVPLAY",IPTVPLAY Великая Отечественная HD
-http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
-
-#EXTINF:-1 xui-id="10464" tvg-id="" tvg-name="MM Скорость HD" tvg-logo="" group-title="Кинозалы 3",MM Скорость HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4QZFqoSHwsiXQK62f-XB84/m3u8
-
-
 
 
 
@@ -230,44 +146,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",2x2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-
-#EXTINF:-1 tvg-id="da-vinci" group-title="Детские",Да Винчи
-http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="Детские",Мультиландия
-http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Лёва
-http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские",Duck TV HD
 http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
-#EXTINF:-1 group-title="Детские",СТС Kids
-http://87.246.54.249:8085/CTC_Kids/mpegts
 
-#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Детские",СТСKids HD
-http://87.246.54.249:8085/CTC_Kids/mpegts
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",СТС Kids HD
-http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
-#EXTINF:-1 tvg-id="baby-time" group-title="Детские",Baby TIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
-
-#EXTINF:-1 tvg-id="baby-time" group-title="Детские",BabyTIME
-http://91.194.191.241:8081/chid273/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",В гостях у сказки
-http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
-
-#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Детские",В Гостях у Сказки
-http://91.194.191.241:8081/chid61/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Детские",Мульт
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
@@ -275,62 +160,23 @@ http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Детские",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",Уникум
-http://46.8.46.14/detskiy/index.m3u8
-
-#EXTINF:-1 group-title="Детские",Детский Мир
-http://46.8.46.14/detmir/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",МультСезон
 http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
-#EXTINF:-1 group-title="Детские",Gulli Girl
-http://46.8.46.14/Gulli/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Cartoon Network
-http://46.8.46.14/Cartoon_Network/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские",Nickelodeon
-http://91.194.191.241:8081/chid401/mono.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские",Nickelodeon SD
-http://46.8.46.14/Nickelodeon/index.m3u8
-
-#EXTINF:-1 tvg-id="nickelodeon-baltic" group-title="Детские",Nickelodeon Baltic
-http://tvip.btk.teleos.ru:8081/chid401/mono.m3u8
-
-#EXTINF:-1 tvg-id="nick-jr" group-title="Детские",Nick Jr
-http://46.8.46.14/nickjr/index.m3u8
-
-#EXTINF:-1 group-title="Детские",TiJi
-http://193.27.209.122/tiji/index.m3u8
 
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Капитан Фантастика
-http://91.194.191.241:8081/chid292/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Капитан Фантастика HD
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
+
 
 #EXTINF:-1 group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://audioboom.com/i/12414023/768x512/c.png" tvg-id="no_epg_mult" group-title="Детские",FUNNY KIDS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/z4cJ6uHZzAS4NxkKHKaP7Q,1760648410/streaming/anime_kids/324/1/index.m3u8
 
-#EXTINF:-1 tvg-id="ryzhy" group-title="Детские",Рыжий
-http://46.8.46.14/Ryzhiy/index.m3u8
 
-#EXTINF:-1 tvg-id="tiptop" group-title="Детские",Тип-Топ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/KbgLp4jz6RmoXK-HPwlU6Q,1760648410/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="chizhik" group-title="Детские",Чижик
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/ttt467uzmrfAjX9umP7-rA,1760648410/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
@@ -363,217 +209,34 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png",Детское кино International
 http://autopilot.catcast.tv/content/38720/index.m3u8
 
-#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://i.postimg.cc/YS90VJYX/image.png",МУЛЬТИКИ И СКАЗКИ
-https://132544.edgevideo.ru/streams/132544_931352/132544720/index.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Сказки Зайки
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
+#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png",IPTVPLAY МультСказки HD
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-logo="https://viva-russia.ru/wp-content/uploads/2021/09/viva_2002_belyj_zhjoltyj_prjamougolnik.png" tvg-id="viva-rus" group-title="Музыкальные",VIVA TV Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i123.fastpic.org/big/2024/0826/01/adbb4692281cf3cc6540f47f4460c701.png",IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
+#EXTINF:-1 group-title="Кинозалы IPTVPLAY" tvg-logo="https://i123.fastpic.org/big/2024/0826/ac/f4f87b57a79f0fbc6381996811439dac.png",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
 
+#EXTINF:-1 group-title="Кинозалы IPTVPLAY"  tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png",IPTVPLAY ИНТЕРНЫ
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://twale.app/storage/channels/kpop.png" group-title="Музыкальные",Kpop Play TV
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://sun9-12.userapi.com/dxomaWxMbPlW1MBpOeAWTCKnfXjUQ0bN-GydAw/brA6yuTSEys.jpg" group-title="Музыкальные",TMF RUS
-https://132544.edgevideo.ru/streams/132544_932351/1325441080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" tvg-id="no_epg_music" group-title="Музыкальные",VEVO Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png" group-title="Кинозалы IPTVPLAY" ,IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/4fun.png" tvg-id="4fun" group-title="Музыкальные",4fun.TV
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png" group-title="Кинозалы IPTVPLAY",IPTVPLAY Великая Отечественная HD
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
 
-#EXTINF:-1 tvg-id="no_epg_radio" tvg-logo="https://sun9-54.userapi.com/impf/c845019/v845019621/11757b/mt-fwMNK4oQ.jpg?size=604x604&quality=96&sign=0543b819a2583293561b2cd832ff1970&c_uniq_tag=fzVdTvh77oR7s9aF3VezNct6g4SODybtO7Ij75osuwQ&type=album" group-title="Музыкальные",Новое Радио
-http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nick-music" tvg-logo="https://iptvx.one/picons/nick-music.png" group-title="Музыкальные",Nick Music
-http://212.102.60.231/NICK_MUSIC/index.m3u8
-
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://content.foto.my.mail.ru/mail/maxraykov/_musicplaylistcover/i-14.jpg" group-title="Музыкальные",DanceHits 80'
-http://dancehits80.denvs.ru:8080/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://tvradioo.ru/wp-content/uploads/2021/01/2023-01-17_21-45-17.png" group-title="Музыкальные",MIXM TB
-http://89.179.247.144/hls/mixm.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://nm-tv.ru/wp-content/uploads/2022/08/site_obl.jpg" group-title="Музыкальные",NM Television 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://tv.a21network.ru/stream/40650/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://play-lh.googleusercontent.com/g7Ul8xOO2Dqxe9Ycc02FVYxaHQweh_bV0Eov9eIEa7_6Y30P20dWTzYGBXG9eUjAfq8" group-title="Музыкальные",Spirit TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://deluxemusic.de/wp-content/uploads/sites/4/2019/11/Deluxe-Musik-logo.png" group-title="Музыкальные",Deluxe Music TV
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Музыкальные",Deluxe Rap
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn.glp.smcloud.net/t/landing_page/file/JgA8I_HiDance.png/HiDance.png" group-title="Музыкальные",HiDance
-https://s-pl-01.mediatool.tv/playout/hdpl-abr/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Музыкальные",Kiss TV
-http://livestream.siliconweb.com/live/kissfm/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/kaloopy-tv-3596.webp" group-title="Музыкальные",Kaloopy HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/ebe730b7-f364-458e-82e0-2f49dfd9e6c4/0.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.parsatv.com/index_files/channels/carac.jpg" group-title="Музыкальные",CARAC1
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
-http://194.26.229.213/chdtv_rock/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
-http://194.26.229.213/chdtv_ru_rock/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" group-title="Музыкальные" tvg-logo="https://m.media-amazon.com/images/M/MV5BMThjYjJjNzItMzc2MS00ODhlLThiNWYtMmRmNGExMWJiZWMwXkEyXkFqcGc@._V1_.jpg",Hot Rock
-https://rpn.bozztv.com/gusa/gusa-hotrock/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672" group-title="Музыкальные",V2BEAT TV
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://p16.tiktokcdn.com/tos-maliva-avt-0068/f87b0d3e7af7c01858a4c1c845aeb2d8~c5_720x720.jpeg" group-title="Музыкальные",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/d1/92/4ad1928c-6e40-9506-df33-b37ad8343752/source/512x512bb.jpg" group-title="Музыкальные",radio m2o
-http://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1728000.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s102487d.png" group-title="Музыкальные",RADIO CITTA
-https://stream10.xdevel.com/video0s977971-2391/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://pwaimg.listenlive.co/88_STEREO_1150291_config_station_logo_image_1495129589.png" group-title="Музыкальные",88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Celebrates
-https://dt1s4l2cmiyit.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fcwpee1h7t5cs/XITE_Celebrates.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD350003932
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE 80s Flashback
-https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE 90s Throwback
-https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Country`s Finest
-https://d2tcgvmxn0otsl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vxf3mwifay8co/XITE_Countrys_Finest.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Country Today
-https://d18gddrg3q1rlq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l4hn4yums84y5/XITE_Country_Today.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300006O3
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Just Chill
-https://dvnftgdlbnemm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/XITE_Just_Chill.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Nuevo Latino
-https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300007PB
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Siempre Latino
-https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE R&B Classic Jams
-https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-133wbycdrwhvy/XITE_RnB_Classic_Jams.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://online-hit.ru/wp-content/uploads/2024/05/xite.png" group-title="Музыкальные",XITE Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/fddbf2e9-f2e9-45f8-bf8a-83155889f423.jpg" group-title="Музыкальные",Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.coolstreaming.us/img/ch/image18194248015.jpg" group-title="Музыкальные",Deep House District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://www.freedownloadlogo.com/logos/d/dee-jay.svg" group-title="Музыкальные",DeeJay
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU.TV HD
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:-1 tvg-id="mtv-us" group-title="Музыкальные",MTV [US]
-https://ca01.utako.moe/mtv/index.m3u8
-
-#EXTINF:-1 tvg-id="mtv-80s-uk" group-title="Музыкальные",MTV 80s
-http://213.169.39.30:5137
-
-#EXTINF:-1 tvg-id="mtv90s-uk" group-title="Музыкальные",MTV 90s
-http://213.169.39.30:5203
-
-#EXTINF:-1 tvg-id="mtv-hits" group-title="Музыкальные",MTV Hits
-http://213.169.39.30:5257
-
-#EXTINF:-1 tvg-id="mtv-live-hd" group-title="Музыкальные",MTV Live
-http://190.102.246.93:9005/play/a01p
-
-#EXTINF:-1 tvg-id="muztv" group-title="Музыкальные",Муз ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-
-
-
-#EXTINF:-1 tvg-id="1hd" group-title="Музыкальные",1HD Music
-http://91.247.68.229:8000/play/eee/index.m3u8
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
-
-#EXTINF:-1 group-title="Музыкальные",Первый музыкальный HD
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-
-
-#EXTINF:-1 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music HD
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="bridge-tv-etno" group-title="Музыкальные",Bridge TV Этно
-http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
-
-#EXTINF:-1 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
-http://tvip.btk.teleos.ru:8081/chid519/index.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-rock" group-title="Музыкальные",Bridge TV Rock
-http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Музыкальные",Bridge TV Фрэш
-http://91.194.191.241:8081/chid467/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Музыкальные",Bridge TV Шлягер
-http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="now-rock" group-title="Музыкальные",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="now70s" group-title="Музыкальные",Now 70's
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="now80s" group-title="Музыкальные",Now 80's
-http://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="Музыкальные",70-80 TV
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-
-#EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные",Retro Music TV
-http://78.130.250.2:8023/play/a02r/index.m3u8
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="la-minor" group-title="Музыкальные",Ля-минор
-http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
 
 
