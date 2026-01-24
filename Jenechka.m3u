@@ -3,6 +3,7 @@
 
 
 
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
