@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Оплата" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  12:12 06.02.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  12:12 07.02.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -267,8 +267,7 @@ https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="euronews" group-title="Новости",EuroNews
-https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+
 
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Новости",DW Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
@@ -326,8 +325,7 @@ http://158.101.222.193:88/georgia_play.php?id=boxtv
 
 
 
-#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные",Eurosport HD 1
 http://178.134.1.158:8081/eurosport/index.m3u8
@@ -356,11 +354,6 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 
 
 
-#EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные",Сетанта Спорт 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные",Сетанта Спорт 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="setanta1-ge" group-title="Спортивные",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
@@ -675,13 +668,7 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 http://188.237.47.212:6005
 
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные",Nat Geo Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/mono.m3u8
 
-
-
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные",NationalGeographic HD
-https://vod.splay.uz/live_splay/original/National_Geographic/tracks-v1a1/mono.m3u8
 
 
 
@@ -710,8 +697,7 @@ http://185.57.68.33/40/mpegts
 
 
 
-#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -724,8 +710,7 @@ https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 
 
 
-#EXTINF:-1 tvg-id="dikiy" group-title="Познавательные",Дикий
-https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
+
 
 
 
@@ -766,8 +751,6 @@ http://158.101.222.193:88/georgia_play.php?id=amediahit
 
 
 
-#EXTINF:-1 tvg-id="312-kino" group-title="Кино и сериалы",312 Кино
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
 
 
@@ -795,10 +778,6 @@ http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Кино и сериалы",Любимое Кинo
-https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
 
 
 
@@ -1090,22 +1069,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-logo="https://epg.iptvx.one/picons/ducktv.png" tvg-id="ducktv" group-title="Детские",Duck TV HD
-http://hls.peers.tv/streaming/ducktv/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
 
-
-
-
-#EXTINF:-1 group-title="Детские",Мульт
-http://stv.mediacdn.ru/live/cdn/mult/tracks-v2a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="Детские",Мульт HD
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-
-
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",МультСезон
-http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NjA2OTk3ODAsImlhdCI6MTc2MDYxMzM4MCwiY2lkIjo2LCJ1aWQiOjk1NDY2NDA0NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.BQ00QYHPCmnVbzCAxP1w1YA_Kbwo7hlXBwZM9I67vao&offset=3
 
 
 
@@ -1115,20 +1080,11 @@ http://109.94.1.3:8080/132/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Детские",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",Cartoon Classics
-http://95.66.188.74/Cartoon_Classics/index.m3u8
 
 #EXTINF:-1 tvg-id="shayantv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские",Шаян ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -1148,9 +1104,6 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png",Ералаш
 https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/detkinoint-tviksel.png",Детское кино International
-http://autopilot.catcast.tv/content/38720/index.m3u8
 
 
 
@@ -1261,9 +1214,6 @@ https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="ru-tv" group-title="Музыкальные",RU.TV HD
-http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
 
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
@@ -1288,8 +1238,6 @@ http://91.247.68.229:8000/play/eee/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="zhar-ptica" group-title="Музыкальные",Жар-Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kuraj" group-title="Музыкальные",Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
@@ -2457,6 +2405,65 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.eropuls.de/out/flow/img/shoplogo.png" group-title="Взрослые",Eropuls DE 18+
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые",Exxxotica
+http://31.148.48.15:80/O-la-la/index.m3u8
+
+#EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые",Digital Desire
+#EXTVLCOPT:http-user-agent=Wink
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="Взрослые",Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dorcel" group-title="Взрослые",Dorcel TV HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dusk" group-title="Взрослые",DUSK
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_dusk_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eroxxxhd" group-title="Взрослые",Eroxxx HD
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="erox" group-title="Взрослые",Erox
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="Взрослые",Extasy TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="babes-tv" group-title="Взрослые",Babes TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.ifcmedia.sk/wp-content/uploads/2021/03/image-18-2048x902.png" group-title="Взрослые",Leo TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.goiptv.top/upload/REALITY-KINGS-TV-LOGO.png" tvg-id="no_epg_xxx" group-title="Взрослые",Reality Kings TV
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые",PassionXXX HD
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="Взрослые",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
 
 
