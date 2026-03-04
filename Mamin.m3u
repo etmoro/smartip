@@ -4,7 +4,7 @@
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  04:44 04.03.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  04:44 05.03.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -199,12 +199,7 @@ http://cdntv.online/high/zjdicprmak64/2211.mpeg
 
 
 
-#EXTINF:0 group-title="Кино" tvg-id="6395" tvg-logo="http://epg.one/img/6395.png" tvg-rec="0",KLI VHS HD
-http://allway.tv/iptv/users/etmoro/917.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="5437" tvg-logo="http://epg.one/img/5437.png" tvg-rec="0",Dosug TV VHS
-http://allway.tv/iptv/users/etmoro/857.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD
-http://allway.tv/iptv/users/etmoro/697.m3u8
+
 #EXTINF:0 group-title="Кино" tvg-id="4776" tvg-logo="http://epg.one/img/4776.png" tvg-rec="7",StrahTV VHS HD
 http://allway.tv/iptv/users/etmoro/678.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="4763" tvg-logo="http://epg.one/img/4763.png" tvg-rec="7",BCU VHS HD
@@ -218,6 +213,14 @@ http://allway.tv/iptv/users/etmoro/942.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="5359" tvg-logo="http://epg.one/img/5359.png" tvg-rec="0",Yosso TV VHS
 http://allway.tv/iptv/users/etmoro/827.m3u8
 
+
+
+#EXTINF:0 group-title="Кино" tvg-id="6395" tvg-logo="http://epg.one/img/6395.png" tvg-rec="0",KLI VHS HD
+http://allway.tv/iptv/users/etmoro/917.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5437" tvg-logo="http://epg.one/img/5437.png" tvg-rec="0",Dosug TV VHS
+http://allway.tv/iptv/users/etmoro/857.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5462" tvg-logo="http://epg.one/img/5462.png" tvg-rec="0",PG VHS HD
+http://allway.tv/iptv/users/etmoro/697.m3u8
 
 #EXTINF:0 tvg-id="131" tvg-logo="http://epg.cdntv.online/img/131.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Кино",Настоящее страшное ТВ
 #EXTGRP:Кино
