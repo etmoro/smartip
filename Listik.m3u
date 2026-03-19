@@ -5,7 +5,7 @@
 #EXTINF:-1 group-title="Оплата" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  10:00 18.03.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  10:00 19.03.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -734,20 +734,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы",Видеокассета VHS
+#EXTVLCOPT:http-user-agent=SmartTV
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Hit
 http://158.101.222.193:88/georgia_play.php?id=amediahit
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air HD
@@ -758,10 +752,6 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 
-
-
-
-
 #EXTINF:-1 group-title="Кино и сериалы",Zee-TV
 http://158.101.222.193:88/georgia_play.php?id=zeetv
 
@@ -770,54 +760,24 @@ http://158.101.222.193:88/georgia_play.php?id=zeetv
 http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино
 http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
-
-
-
 
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино и сериалы",Индийское кино
 http://188.113.190.12/329/index.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Кино и сериалы",Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="Кино и сериалы",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://img.catcast.tv/uploads/04092021/logos/40672-61329195ca44d.jpg" group-title="Кинозалы",LAV-KINO
 https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
-
-
 
 #EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg",Следствие вели... 
 https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
