@@ -8,7 +8,7 @@
 #EXTINF:-1 group-title="Детские" tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg",Relax TV 
 https://d10cyxntpn0bwm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-udbgiwo3vva3o/master.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   11:11 03.05.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   11:11 04.05.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -137,13 +137,9 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские",Карусель
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -153,31 +149,8 @@ https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/play
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские",Карусель
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-
-#EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские",Смайлик ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://109.94.1.3:8080/132/index.m3u8
-
-
-
 
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
@@ -201,8 +174,11 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://iptvx.one/picons/multimania-lv.png" group-title="Детские",Детский телеканал Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Детские" tvg-logo="https://www.russkiymir.ru/upload/medialibrary/fac/fac0c725fda3ecab8df3bfe5f03f81f6.png",Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+
+
+
+
+
 
 
 
