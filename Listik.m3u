@@ -8,7 +8,7 @@
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:11 09.06.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:11 11.06.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1874,16 +1874,6 @@ https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e01
 
 
 
-#EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые",Exxxotica
-http://31.148.48.15:80/O-la-la/index.m3u8
-#EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые",Playboy TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые",PassionXXX HD
-#EXTVLCOPT:http-user-agent=SmartTV
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="Взрослые",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые",Rough
 http://cdn.adultiptv.net/rough.m3u8
@@ -1975,13 +1965,16 @@ http://live.redtraffic.xyz/pornstar.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 
 
-
-
 #EXTINF:-1 tvg-id="exxxotica" group-title="Взрослые",Exxxotica
 http://31.148.48.15:80/O-la-la/index.m3u8
-
 #EXTINF:-1 tvg-id="playboy-tv" group-title="Взрослые",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые",PassionXXX HD
+#EXTVLCOPT:http-user-agent=SmartTV
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="Взрослые",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="digital-desire" group-title="Взрослые",Digital Desire
 #EXTVLCOPT:http-user-agent=Wink
@@ -2101,16 +2094,10 @@ http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157183
 http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157184
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",FAKE AGENT
 http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157185
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",Gay Adult TV
-http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157186
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",French Lover Europe
 http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157187
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",GAY MAX HD
-http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157188
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",My Pervy Family
 http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157189
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",Neo Gay 1
-http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157190
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",Passie XXX
 http://vipapyenhmw.top:8080/VIP017771763205782117/e6201a36f101/157191
 #EXTINF:-1 group-title="Взрослые" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png",Pink Erotic 3
