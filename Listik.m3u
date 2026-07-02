@@ -8,7 +8,7 @@
 http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:11 01.07.2026
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  11:11 02.07.2026
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2016,12 +2016,118 @@ http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=SmartTV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/passionxxx.png" tvg-id="passionxxx" group-title="Взрослые",PassionXXX HD
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://s.rbk.ru/v1_companies_s3/media/trademarks/0737acd5-1854-4f3c-9521-2b9d82c4d54e.jpg" group-title="Взрослые",Porn Classic
-http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DORCEL HD" group-title="Взрослые",DORCEL HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96855
+#EXTINF:-1 tvg-id="DORCEL XXX HD" group-title="Взрослые",DORCEL XXX HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96854
+#EXTINF:-1 tvg-id="REDLIGHT HD" group-title="Взрослые",REDLIGHT HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96856
+#EXTINF:-1 tvg-id="LEO GOLD TV HD" group-title="Взрослые",LEO GOLD TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96801
+#EXTINF:-1 tvg-id="PENTHOUSE BLACK" group-title="Взрослые",PENTHOUSE BLACK
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96795
+#EXTINF:-1 tvg-id="RED XXX HD" group-title="Взрослые",RED XXX HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96787
+#EXTINF:-1 tvg-id="EROX XXX HD" group-title="Взрослые",EROX XXX HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96853
+#EXTINF:-1 tvg-id="PASSION XXX HD" group-title="Взрослые",PASSION XXX HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96841
+#EXTINF:-1 tvg-id="REALITY KINGS TV HD" group-title="Взрослые",REALITY KINGS TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96838
+#EXTINF:-1 tvg-id="VIVID TOUCH" group-title="Взрослые",VIVID TOUCH
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96842
+#EXTINF:-1 tvg-id="PASSIE XXX" group-title="Взрослые",PASSIE XXX
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96840
+#EXTINF:-1 tvg-id="LEO TV HD" group-title="Взрослые",LEO TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96810
+#EXTINF:-1 tvg-id="RED LIPS HD" group-title="Взрослые",RED LIPS HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96786
+#EXTINF:-1 tvg-id="XXL" group-title="Взрослые",XXL
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/2658
+#EXTINF:-1 tvg-id="PLAYHOUSE HD" group-title="Взрослые",PLAYHOUSE HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96802
+#EXTINF:-1 tvg-id="BALKAN EROTIC HD" group-title="Взрослые",BALKAN EROTIC HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96804
+#EXTINF:-1 tvg-id="ADULT CHANNEL 1" group-title="Взрослые",ADULT CHANNEL 1
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96788
+#EXTINF:-1 tvg-id="ADULT CHANNEL 2" group-title="Взрослые",ADULT CHANNEL 2
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106117
+#EXTINF:-1 tvg-id="ADULT CHANNEL 3" group-title="Взрослые",ADULT CHANNEL 3
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/454864
+#EXTINF:-1 tvg-id="ADULT CHANNEL 4" group-title="Взрослые",ADULT CHANNEL 4
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96812
+#EXTINF:-1 tvg-id="ADULT CHANNEL 5" group-title="Взрослые",ADULT CHANNEL 5
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96813
+#EXTINF:-1 tvg-id="ADULT CHANNEL 6" group-title="Взрослые",ADULT CHANNEL 6
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96819
+#EXTINF:-1 tvg-id="ADULT CHANNEL 7" group-title="Взрослые",ADULT CHANNEL 7
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/454865
+#EXTINF:-1 tvg-id="FREE-X TV" group-title="Взрослые",FREE-X TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96839
+#EXTINF:-1 tvg-id="FREE-X TV" group-title="Взрослые",FREE-X TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96808
+#EXTINF:-1 tvg-id="CAPABLE HOLE HD" group-title="Взрослые",CAPABLE HOLE HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96815
+#EXTINF:-1 tvg-id="EXXXOTICA TV HD" group-title="Взрослые",EXXXOTICA TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96817
+#EXTINF:-1 tvg-id="BRAZZERS TV EUROPE HD" group-title="Взрослые",BRAZZERS TV EUROPE HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96837
+
+#EXTINF:-1 tvg-id="PASSION XXX EUROPE" group-title="Взрослые",PASSION XXX EUROPE
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96835
+
+#EXTINF:-1 tvg-id="RUSSIAN NIGHT HD" group-title="Взрослые",RUSSIAN NIGHT HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96800
+#EXTINF:-1 tvg-id="VENUS TV" group-title="Взрослые",VENUS TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96833
+#EXTINF:-1 tvg-id="HOT TV" group-title="Взрослые",HOT TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96836
+
+#EXTINF:-1 tvg-id="FANTAZZY TV" group-title="Взрослые",FANTAZZY TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96797
+#EXTINF:-1 tvg-id="SEXY HOT HD" group-title="Взрослые",SEXY HOT HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96832
+#EXTINF:-1 tvg-id="MILF TV HD" group-title="Взрослые",MILF TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96793
+#EXTINF:-1 tvg-id="SEXTREME TV" group-title="Взрослые",SEXTREME TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96834
+#EXTINF:-1 tvg-id="MEIDEN VAN HOLLAND HARD" group-title="Взрослые",MEIDEN VAN HOLLAND HARD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96831
+
+#EXTINF:-1 tvg-id="VIVID RED HD" group-title="Взрослые",VIVID RED HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96852
+#EXTINF:-1 tvg-id="NUART TV HD" group-title="Взрослые",NUART TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96818
+#EXTINF:-1 tvg-id="BRAZZERS TV EUROPE RU" group-title="Взрослые",BRAZZERS TV EUROPE RU
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96828
+
+#EXTINF:-1 tvg-id="BANG U HD" group-title="Взрослые",BANG U HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96823
+
+#EXTINF:-1 tvg-id="DUSK! DELUX" group-title="Взрослые",DUSK! DELUXE HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96843
+#EXTINF:-1 tvg-id="VIVID TV EUROPE" group-title="Взрослые",VIVID TV EUROPE
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96844
+#EXTINF:-1 tvg-id="PENTHOUSE NAUGHTY NIGHTS" group-title="Взрослые",PENTHOUSE NAUGHTY NIGHTS
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96794
+#EXTINF:-1 tvg-id="KISS" group-title="Взрослые",KISS
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/96820
+#EXTINF:-1 tvg-id="CENTO X CENTO" group-title="Взрослые",CENTO X CENTO
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106108
+#EXTINF:-1 tvg-id="Pink TV HD" group-title="Взрослые",Pink TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106111
+#EXTINF:-1 tvg-id="BLUE HUSTLER EUROPE" group-title="Взрослые",BLUE HUSTLER EUROPE
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106112
+#EXTINF:-1 tvg-id="BABES TV" group-title="Взрослые",BABES TV
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106113
+#EXTINF:-1 tvg-id="X BUNGA BUNGA" group-title="Взрослые",X BUNGA BUNGA
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106115
+#EXTINF:-1 tvg-id="BEATE-UHSE.TV HD" group-title="Взрослые",BEATE-UHSE.TV HD
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106116
+#EXTINF:-1 tvg-id="BLUE HUSTLER" group-title="Взрослые",BLUE HUSTLER
+http://line.hello-ott.xyz:80/jCp4YyMfXc/nowo2O4ogJ/106118
 
 #EXTINF:-1 tvg-id="Tiny Adult" group-title="Взрослые", Tiny Adult
 http://rxs4.eu:8080/Azs6V8YXXN/XptvtnNpSG/695174
