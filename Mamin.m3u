@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Оплата",Relax TV 
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
+http://cdntv.online/high/7jic59vkp2tz/1629.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  04:44 11.07.2026
