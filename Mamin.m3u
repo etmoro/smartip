@@ -1,16 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Оплата",Relax TV 
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Оплата",Камин  4:44 23.10.2026
-#EXTVLCOPT:http-user-agent=SmartTV
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-
-
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD  -  4:44 23.10.2026
 #EXTGRP:Федеральные
 http://cdntv.online/low/iebm2vwyraj7/29.mpeg
 
@@ -2361,3 +2351,10 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Relax",Relax TV
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Relax",Камин
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
