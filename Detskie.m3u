@@ -3,19 +3,7 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Детские",Relax TV 
-https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   11:11 23.10.2026
-#EXTVLCOPT:http-user-agent=SmartTV
-https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
-
-
-
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль)
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль) - 11:11 23.10.2026
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1",Россия 1 (Ярославль)
@@ -176,7 +164,12 @@ http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/40/5c/09/405c093cd19c8f0820329972b5deff0f.jpg" tvg-id="no_epg" group-title="Детские",Relax TV 
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="Детские",Камин   
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
 
 #EXTINF:-1,Грибок-теремок
@@ -787,6 +780,3 @@ https://mults.info/mp4/veselyi_ogorod.mp4
 https://mults.info/mp4/chto_takoe_horosho.mp4
 #EXTINF:-1,50."Заяц Коська и родничок"
 https://mults.info/mp4/zajats_koska_i_rodnichok.mp4
-
-
-
