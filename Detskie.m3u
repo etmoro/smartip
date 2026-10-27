@@ -3,7 +3,7 @@
 #EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_lite.xml.gz"
 
 
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль) - 11:11 26.10.2026
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Ярославль) - 11:11 27.10.2026
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rossia1",Россия 1 (Ярославль)
