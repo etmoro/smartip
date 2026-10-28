@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD  -  4:44 27.10.2026
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD  -  4:44 28.10.2026
 #EXTGRP:Федеральные
 http://cdntv.online/low/iebm2vwyraj7/29.mpeg
 
@@ -19,9 +19,6 @@ http://cdntv.online/low/iebm2vwyraj7/33.mpeg
 #EXTINF:0 tvg-id="2" tvg-logo="http://epg.cdntv.online/img/2.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Россия 1
 #EXTGRP:Федеральные
 http://cdntv.online/low/iebm2vwyraj7/2.mpeg
-
-#EXTINF:-1  ,Россия 1 (Ярославль)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia1-sd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://i122.fastpic.org/big/2023/0705/17/1f78a821046a3a5dedc9b714a6e0b717.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Федеральные",Россия 1
@@ -53,8 +50,7 @@ http://cdntv.online/low/iebm2vwyraj7/6.mpeg
 #EXTGRP:Новости
 http://cdntv.online/low/iebm2vwyraj7/7.mpeg
 
-#EXTINF:-1  ,Россия 24 (Ярославль)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/yaroslavl/russia24-sd/index.m3u8
+
 
 #EXTINF:0 tvg-id="552" tvg-logo="http://epg.cdntv.online/img/552.png" group-title="Региональные",ГТ-Ярославль
 #EXTGRP:Региональные
