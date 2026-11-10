@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 
-#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD - 4:44 10.11.2026
+#EXTINF:0 tvg-id="29" tvg-logo="http://epg.cdntv.online/img/29.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Федеральные",Первый канал HD - 4:44 11.11.2026
 #EXTGRP:Федеральные
 http://cdntv.online/low/iebm2vwyraj7/29.mpeg
 
@@ -2294,6 +2294,208 @@ http://cdntv.online/low/iebm2vwyraj7/966.mpeg
 #EXTINF:0 tvg-id="969" tvg-logo="http://epg.cdntv.online/img/969.png" group-title="Религиозные",Три Ангела HD
 #EXTGRP:Религиозные
 http://cdntv.online/low/iebm2vwyraj7/969.mpeg
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+
+
+
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Любовь
+https://stream.smotrim.ru/hls3/fasttv01/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Мужское
+https://stream.smotrim.ru/hls3/fasttv02/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Классика
+https://stream.smotrim.ru/hls3/fasttv03/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Праздник
+https://stream.smotrim.ru/hls3/fasttv04/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Детское
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Смотрим 100% Факты
+https://stream.smotrim.ru/hls3/fasttv06/playlist_3.m3u8
+#EXTINF:-1 group-title="Кино" ,Лен ТВ 24
+https://stream.smotrim.ru/hls/lentv24/playlist_5.m3u8
+
+
+
+#EXTINF:-1 group-title="Кино",Киножелезо
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=Fn44KsgW7Gf2CafX6BiBHw&e=2094254866&scheme=https
+#EXTINF:-1 group-title="Кино",Кинолаффка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=BM_SwIwHlD8oX2SoKWjMDQ&e=2094254866&scheme=https
+#EXTINF:-1 group-title="Кино",Кино и Жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=zEj5adk6MXqs5lGXPY2ksg&e=2094254866&scheme=https
+#EXTINF:-1 group-title="Кино",Дорамы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5e3edd063411550ed6b67a8c0d7c96ea/index.m3u8?s=81zpHkfwPnGcq419RXujmw&e=2094254867&scheme=https
+#EXTINF:-1 group-title="Кино",Индийские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/8b077d20877c0cd70b5bc4a090b9f37e/index.m3u8?s=bHrjFCD9BaHitSgoKomQ3w&e=2094254867&scheme=https
+#EXTINF:-1 group-title="Кино",Турецкие фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2814e12b4ef6c528967736441c2e2803/index.m3u8?s=uS2vXj8E9uSk5rxZbdSAtA&e=2094254867&scheme=https
+#EXTINF:-1 group-title="Кино",Латиноамериканские фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/4d06d4d152d087f3792a5b15dc729562/index.m3u8?s=vdbeUGpIufVq3MkWUP0iKg&e=2094254868&scheme=https
+#EXTINF:-1 group-title="Кино",Фильмач
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=ABOfEBdh2ryTOo5k9_5wJA&e=2094254868&scheme=https
+#EXTINF:-1 group-title="Кино",Детективы каждый день
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=37B0EOcVZ5PL2UXeRiyLmA&e=2094254868&scheme=https
+#EXTINF:-1 group-title="Кино",Фантастические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/54de765aeea96a73d23a24b4e2cab07d/index.m3u8?s=I4on3kVR5Pa4akAddNrEdg&e=2094254868&scheme=https
+#EXTINF:-1 group-title="Кино",Экшн фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/1786622e52a6864eb3fd66b83733fef5/index.m3u8?s=ZEa_uEmXi4D40z4o4yx3iQ&e=2094254869&scheme=https
+#EXTINF:-1 group-title="Кино",Apple TV+Action Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=VtcbP0-yU2uT1w5z_JT37A&e=2094254869&scheme=https
+#EXTINF:-1 group-title="Кино",Драматические фильмы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=9uiQEaUicslAT5AAkhyLBQ&e=2094254869&scheme=https
+#EXTINF:-1 group-title="Кино",Epic Media Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=NK4BKRH9kk_8NBQX3fh8dQ&e=2094254869&scheme=https
+#EXTINF:-1 group-title="Кино",Epic Media Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=cnz4LsTjdyrVsaZMAaM4Kg&e=2094254870&scheme=https
+#EXTINF:-1 group-title="Кино",Amazon Prime Video mans' club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=9MdXuSW2Ko4HPGO28HSFAQ&e=2094254870&scheme=https
+#EXTINF:-1 group-title="Кино",Amazon Prime Video Romance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=PUSohqh1Rh3vARP8TLhzgQ&e=2094254870&scheme=https
+#EXTINF:-1 group-title="Кино",Звездные войны
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=m61hqQ5RasYC6aV2LE7TGw&e=2094254871&scheme=https
+#EXTINF:-1 group-title="Кино",Гарри Поттер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=kGXVkoBvg8k9eWwrhy_RkQ&e=2094254871&scheme=https
+#EXTINF:-1 group-title="Кино",Властелин колец
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=uQp5hr9Ze8ItZhy1KiK_zw&e=2094254871&scheme=https
+#EXTINF:-1 group-title="Кино",Marvel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=8jeMYebvDy5AMjtTuX4CYQ&e=2094254871&scheme=https
+#EXTINF:-1 group-title="Кино",Вселенная DC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=0b-5Uzgaym4JgftqhS1dVg&e=2094254872&scheme=https
+#EXTINF:-1 group-title="Кино",Твой кинотеатр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=BwWGhHlyTFiN90qGtNsfFg&e=2094254872&scheme=https
+#EXTINF:-1 group-title="Кино",HHQ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=cYWmK1PweG5u97A4-cpFFg&e=2094254872&scheme=https
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/370?unique=2026-08-22+02%3A23%3A45.911848&access_token=d28a4b8e-a3c2-497b-8547-0754c45dadea",Kinowalk_tv
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/394?unique=2026-09-20+06%3A39%3A16.755553&access_token=49e74283-a599-4c9e-8b17-2e114a2bebfb",ПАРАНОРМАЛЬНЫЙ АРХИВ
+http://kinowalk.hopto.org/paranormal404_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/134?unique=2026-07-25+13%3A55%3A22.216397&access_token=0a12131f-650c-4909-9a02-ba9a6b511825",ScripachTV
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/121?unique=2026-07-24+07%3A18%3A08.849860&access_token=1d582dcd-0d9f-4ce7-94b9-b85a9f3c6825",KinoMix Юрич
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/367?unique=2026-08-20+21%3A26%3A12.233828&access_token=5eb8ee8a-8a44-4763-9f55-bfe6cdb9dae0",KinoMix Юрич 2
+http://kinowalk.hopto.org/dak3767_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/132?unique=2026-02-20+01%3A57%3A49.533570&access_token=42dbd759-1434-4af9-96b3-e6d634113802",VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/133?unique=2026-07-25+13%3A58%3A47.233805&access_token=1b0e08fc-b6a2-4d5e-a842-a8e2d3cc67ba",Kino Jam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/135?unique=2026-07-27+13%3A53%3A12.491531&access_token=313f9f43-066e-401a-9645-4dead7dddb50",SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/136?unique=2026-07-27+13%3A53%3A27.708328&access_token=1d33d5f2-8488-4625-bdda-098f544bce49",SeleCaoTV1
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/122?unique=2026-02-20+01%3A57%3A49.533570&access_token=0951c630-f716-4483-8366-ffae49225224",Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/123?unique=2026-07-25+14%3A22%3A30.153830&access_token=4c53055d-6634-4781-a1e5-8be0b7bc16c6",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/124?unique=2026-07-25+13%3A44%3A26.077501&access_token=f037e8a6-3dab-48b7-916a-625f52c1c10e",TimeToHorror
+http://kinowalk.hopto.org/timetohorror_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/125?unique=2026-07-25+13%3A44%3A42.009275&access_token=34d5bab6-6672-4e67-8ba3-eac6b4a5b0b0",TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/126?unique=2026-02-20+01%3A57%3A49.533570&access_token=2a7cd4ef-01dc-448f-9d01-128118de1baa",Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/226?unique=2026-07-27+13%3A37%3A32.858124&access_token=b2c8a399-c663-4a02-b7fc-f3c1f186c698",Cinema Time
+http://kinowalk.hopto.org/cinematime_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/129?unique=2026-07-27+13%3A36%3A24.469000&access_token=0064eb47-e70b-4d33-81b1-84bd304fb41b",kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/167?unique=2026-02-20+01%3A57%3A49.533570&access_token=77eb8084-5ba1-47ee-a11c-416e34cc979e",Первый Ряд
+http://kinowalk.hopto.org/perviryad_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/181?unique=2026-02-20+01%3A57%3A49.533570&access_token=a81ca619-cbf8-4dd0-bcd4-f69512a038b7",VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/307?unique=2026-05-26+05%3A44%3A04.883875&access_token=dc8ba71e-5aa9-4382-a6ec-9834ea7ae601",ВИДЕОКАССЕТА
+http://kinowalk.hopto.org/vhs90e_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/339?unique=2026-07-25+13%3A22%3A03.284209&access_token=4fce0ff3-0f3c-4456-86cd-bdafdff6f683",Фильмоскоп
+http://kinowalk.hopto.org/filmscope_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/363?unique=2026-08-18+07%3A20%3A13.536964&access_token=35a15753-cc7e-4388-b0fb-13285d78a8e6",VB-All-In-One
+http://kinowalk.hopto.org/vb-all-in-one_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/365?unique=2026-08-18+20%3A21%3A17.992894&access_token=16e1ca9b-0136-4dd6-b3e2-0be1b0ddb7d9",VB-RusSerails
+http://kinowalk.hopto.org/russerials_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/386?unique=2026-08-26+10%3A31%3A11.854244&access_token=2c0b425d-f923-4780-92b2-8bce032e3aee",LEGION TV
+http://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/246?unique=2026-03-14+18%3A28%3A20.161244&access_token=3173179f-10e6-47bd-9cc7-5cfa4d5770d4",КиноНонСтоп
+http://kinowalk.hopto.org/nonestopmovie_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/375?unique=2026-08-22+20%3A43%3A01.987892&access_token=d8de5b19-6457-47c2-a0a5-37881fd407b2",Х-TV
+http://kinowalk.hopto.org/durkalive_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/376?unique=2026-08-22+20%3A52%3A38.421591&access_token=daa8cbb4-cf59-4084-acf6-7d68facfee86",Mr DRAGON live
+http://kinowalk.hopto.org/mrdragonlive_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/377?unique=2026-08-22+21%3A26%3A08.301001&access_token=79ca11ec-3ae9-4bee-b9c2-a641e4fea7ff",МузCOVERрадио
+http://kinowalk.hopto.org/muzcoverradio_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/379?unique=2026-08-23+10%3A13%3A52.193697&access_token=a623ad3d-f8fe-4f32-8900-55e7566b086c",Kira_freak1993
+http://kinowalk.hopto.org/kirafreak_live
+#EXTINF:-1 group-title="Кино" tvg-logo="http://kinowalk.hopto.org/static-content/logo/383?unique=2026-08-24+10%3A30%3A06.786044&access_token=8ac503b4-1c4d-44db-8398-a5e9fcf09599",grislytoe
+http://kinowalk.hopto.org/grislytoe_live
+
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Шоу Бенни Хилла
+https://lbgo.bozztv.com/07/ushba62/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://ushba.tv/assets/images/logo-roku1.png" ,Мистер Бин
+https://lbgo.bozztv.com/07/ushba45/index.m3u8
+
+
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2018/20180703/sledstvie_veli.jpg",Следствие вели... 
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://pic.rutubelist.ru/video/2025-03-30/d6/d3/d6d381a180a66c51e6433d36a0296781.jpg",Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://images-s.kinorium.com/movie/logo/1627224/h280_51189342.png",Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-0 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://pic.rutubelist.ru/video/2024-11-20/12/3e/123e13e18bc324a7cf4937f9f3c2dc95.jpg",Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" tvg-id="no_epg_cinema" group-title="Кинозалы",Смотрим Кинозалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="strk" group-title="Кинозалы",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
+
+
+
+
 
 
 
