@@ -57,9 +57,13 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="che",Че! (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="yu",Ю (Ярославль)
+#EXTINF:-1 group-title="Эфирные" tvg-id="pervy-yaroslavsky",Первый Ярославский (Ярославль)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
+
 #EXTINF:-1 group-title="Эфирные" tvg-id="pervy",Первый (Рыбинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_1TV_RYB/variant.m3u8
@@ -111,17 +115,9 @@ https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA_RYB/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="tnt",ТНТ (Рыбинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_TNT_RYB/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="pervy-yaroslavsky",Первый Ярославский (Ярославль)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
 #EXTINF:-1 group-title="Эфирные" tvg-id="rybinsk40",Рыбинск-40 (Рыбинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
-#EXTINF:-1 group-title="Эфирные" tvg-id="gorodskoy-yaroslavl",Городской телеканал (Ярославль)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_GTREG/variant.m3u8
-
-
 
 
 
